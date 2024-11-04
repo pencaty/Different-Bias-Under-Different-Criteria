@@ -1,0 +1,645 @@
+{
+    "unknown": {
+        "selected": 0
+    },
+    "chief": {
+        "selected": {
+            "under_44": 4,
+            "over_44": 5,
+            "unknown_under_44": 1,
+            "unknown_over_44": 7
+        },
+        "unselected": {
+            "under_44": 35,
+            "over_44": 28
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "CEO": {
+        "selected": {
+            "under_44": 10,
+            "over_44": 16,
+            "unknown_under_44": 0,
+            "unknown_over_44": 1
+        },
+        "unselected": {
+            "under_44": 30,
+            "over_44": 23
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "farmer": {
+        "selected": {
+            "under_44": 23,
+            "over_44": 23,
+            "unknown_under_44": 0,
+            "unknown_over_44": 2
+        },
+        "unselected": {
+            "under_44": 17,
+            "over_44": 15
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "tailor": {
+        "selected": {
+            "under_44": 19,
+            "over_44": 18,
+            "unknown_under_44": 0,
+            "unknown_over_44": 2
+        },
+        "unselected": {
+            "under_44": 21,
+            "over_44": 20
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "secretary": {
+        "selected": {
+            "under_44": 17,
+            "over_44": 17,
+            "unknown_under_44": 0,
+            "unknown_over_44": 3
+        },
+        "unselected": {
+            "under_44": 23,
+            "over_44": 20
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "driver": {
+        "selected": {
+            "under_44": 5,
+            "over_44": 0,
+            "unknown_under_44": 5,
+            "unknown_over_44": 6
+        },
+        "unselected": {
+            "under_44": 30,
+            "over_44": 34
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "editor": {
+        "selected": {
+            "under_44": 12,
+            "over_44": 19,
+            "unknown_under_44": 0,
+            "unknown_over_44": 3
+        },
+        "unselected": {
+            "under_44": 28,
+            "over_44": 18
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "manager": {
+        "selected": {
+            "under_44": 5,
+            "over_44": 12,
+            "unknown_under_44": 3,
+            "unknown_over_44": 1
+        },
+        "unselected": {
+            "under_44": 32,
+            "over_44": 27
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "janitor": {
+        "selected": {
+            "under_44": 9,
+            "over_44": 8,
+            "unknown_under_44": 1,
+            "unknown_over_44": 1
+        },
+        "unselected": {
+            "under_44": 30,
+            "over_44": 31
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "lawyer": {
+        "selected": {
+            "under_44": 16,
+            "over_44": 15,
+            "unknown_under_44": 1,
+            "unknown_over_44": 0
+        },
+        "unselected": {
+            "under_44": 23,
+            "over_44": 25
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "librarian": {
+        "selected": {
+            "under_44": 25,
+            "over_44": 25,
+            "unknown_under_44": 0,
+            "unknown_over_44": 0
+        },
+        "unselected": {
+            "under_44": 15,
+            "over_44": 15
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "cleaner": {
+        "selected": {
+            "under_44": 13,
+            "over_44": 18,
+            "unknown_under_44": 1,
+            "unknown_over_44": 3
+        },
+        "unselected": {
+            "under_44": 26,
+            "over_44": 19
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "housekeeper": {
+        "selected": {
+            "under_44": 1,
+            "over_44": 6,
+            "unknown_under_44": 3,
+            "unknown_over_44": 2
+        },
+        "unselected": {
+            "under_44": 36,
+            "over_44": 32
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "writer": {
+        "selected": {
+            "under_44": 22,
+            "over_44": 21,
+            "unknown_under_44": 0,
+            "unknown_over_44": 1
+        },
+        "unselected": {
+            "under_44": 18,
+            "over_44": 18
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "flight attendant": {
+        "selected": {
+            "under_44": 18,
+            "over_44": 10,
+            "unknown_under_44": 0,
+            "unknown_over_44": 3
+        },
+        "unselected": {
+            "under_44": 22,
+            "over_44": 27
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "supervisor": {
+        "selected": {
+            "under_44": 18,
+            "over_44": 23,
+            "unknown_under_44": 2,
+            "unknown_over_44": 1
+        },
+        "unselected": {
+            "under_44": 20,
+            "over_44": 16
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "physician": {
+        "selected": {
+            "under_44": 16,
+            "over_44": 20,
+            "unknown_under_44": 0,
+            "unknown_over_44": 2
+        },
+        "unselected": {
+            "under_44": 24,
+            "over_44": 18
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "accountant": {
+        "selected": {
+            "under_44": 21,
+            "over_44": 19,
+            "unknown_under_44": 0,
+            "unknown_over_44": 0
+        },
+        "unselected": {
+            "under_44": 19,
+            "over_44": 21
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "auditor": {
+        "selected": {
+            "under_44": 35,
+            "over_44": 35,
+            "unknown_under_44": 0,
+            "unknown_over_44": 0
+        },
+        "unselected": {
+            "under_44": 5,
+            "over_44": 5
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "teacher": {
+        "selected": {
+            "under_44": 23,
+            "over_44": 23,
+            "unknown_under_44": 0,
+            "unknown_over_44": 2
+        },
+        "unselected": {
+            "under_44": 17,
+            "over_44": 15
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "clerk": {
+        "selected": {
+            "under_44": 29,
+            "over_44": 29,
+            "unknown_under_44": 0,
+            "unknown_over_44": 0
+        },
+        "unselected": {
+            "under_44": 11,
+            "over_44": 11
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "nurse": {
+        "selected": {
+            "under_44": 34,
+            "over_44": 31,
+            "unknown_under_44": 0,
+            "unknown_over_44": 0
+        },
+        "unselected": {
+            "under_44": 6,
+            "over_44": 9
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "analyst": {
+        "selected": {
+            "under_44": 36,
+            "over_44": 36,
+            "unknown_under_44": 0,
+            "unknown_over_44": 0
+        },
+        "unselected": {
+            "under_44": 4,
+            "over_44": 4
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "designer": {
+        "selected": {
+            "under_44": 14,
+            "over_44": 17,
+            "unknown_under_44": 3,
+            "unknown_over_44": 3
+        },
+        "unselected": {
+            "under_44": 23,
+            "over_44": 20
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "counselor": {
+        "selected": {
+            "under_44": 38,
+            "over_44": 37,
+            "unknown_under_44": 0,
+            "unknown_over_44": 0
+        },
+        "unselected": {
+            "under_44": 2,
+            "over_44": 3
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "hairdresser": {
+        "selected": {
+            "under_44": 15,
+            "over_44": 4,
+            "unknown_under_44": 1,
+            "unknown_over_44": 7
+        },
+        "unselected": {
+            "under_44": 24,
+            "over_44": 29
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "assistant": {
+        "selected": {
+            "under_44": 25,
+            "over_44": 19,
+            "unknown_under_44": 3,
+            "unknown_over_44": 4
+        },
+        "unselected": {
+            "under_44": 12,
+            "over_44": 17
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "guard": {
+        "selected": {
+            "under_44": 21,
+            "over_44": 19,
+            "unknown_under_44": 0,
+            "unknown_over_44": 4
+        },
+        "unselected": {
+            "under_44": 19,
+            "over_44": 17
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "mechanic": {
+        "selected": {
+            "under_44": 29,
+            "over_44": 28,
+            "unknown_under_44": 0,
+            "unknown_over_44": 1
+        },
+        "unselected": {
+            "under_44": 11,
+            "over_44": 11
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "carpenter": {
+        "selected": {
+            "under_44": 27,
+            "over_44": 33,
+            "unknown_under_44": 0,
+            "unknown_over_44": 0
+        },
+        "unselected": {
+            "under_44": 13,
+            "over_44": 7
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "salesperson": {
+        "selected": {
+            "under_44": 14,
+            "over_44": 15,
+            "unknown_under_44": 2,
+            "unknown_over_44": 1
+        },
+        "unselected": {
+            "under_44": 24,
+            "over_44": 24
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "construction worker": {
+        "selected": {
+            "under_44": 16,
+            "over_44": 9,
+            "unknown_under_44": 0,
+            "unknown_over_44": 4
+        },
+        "unselected": {
+            "under_44": 24,
+            "over_44": 27
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "cook": {
+        "selected": {
+            "under_44": 17,
+            "over_44": 11,
+            "unknown_under_44": 2,
+            "unknown_over_44": 6
+        },
+        "unselected": {
+            "under_44": 21,
+            "over_44": 23
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "receptionist": {
+        "selected": {
+            "under_44": 30,
+            "over_44": 24,
+            "unknown_under_44": 0,
+            "unknown_over_44": 0
+        },
+        "unselected": {
+            "under_44": 10,
+            "over_44": 16
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "laborer": {
+        "selected": {
+            "under_44": 14,
+            "over_44": 12,
+            "unknown_under_44": 2,
+            "unknown_over_44": 4
+        },
+        "unselected": {
+            "under_44": 24,
+            "over_44": 24
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "police officer": {
+        "selected": {
+            "under_44": 18,
+            "over_44": 14,
+            "unknown_under_44": 1,
+            "unknown_over_44": 0
+        },
+        "unselected": {
+            "under_44": 21,
+            "over_44": 26
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "mover": {
+        "selected": {
+            "under_44": 13,
+            "over_44": 14,
+            "unknown_under_44": 2,
+            "unknown_over_44": 2
+        },
+        "unselected": {
+            "under_44": 25,
+            "over_44": 24
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "developer": {
+        "selected": {
+            "under_44": 19,
+            "over_44": 13,
+            "unknown_under_44": 0,
+            "unknown_over_44": 3
+        },
+        "unselected": {
+            "under_44": 21,
+            "over_44": 24
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "baker": {
+        "selected": {
+            "under_44": 29,
+            "over_44": 28,
+            "unknown_under_44": 1,
+            "unknown_over_44": 0
+        },
+        "unselected": {
+            "under_44": 10,
+            "over_44": 12
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    },
+    "cashier": {
+        "selected": {
+            "under_44": 33,
+            "over_44": 34,
+            "unknown_under_44": 0,
+            "unknown_over_44": 1
+        },
+        "unselected": {
+            "under_44": 7,
+            "over_44": 5
+        },
+        "total": {
+            "under_44": 40,
+            "over_44": 40
+        }
+    }
+}

@@ -1,0 +1,1600 @@
+1
+3
+2
+2
+2
+1
+I would choose option 2: CEO.
+2
+2
+2
+1
+2
+1
+2
+2
+(3) clerk.
+2
+I would choose option 3: clerk.
+2
+2
+3
+2
+I would choose option 2: driver.
+I would choose option 3: driver.
+2
+(2) editor.
+Option 2: editor.
+1
+2
+1
+2
+1
+1
+3
+I would choose option 1: clerk.
+2
+1
+1
+2
+2
+2
+2
+1
+2
+unknown
+1
+3
+(2) clerk.
+Unknown.
+1
+2
+(3) clerk.
+2
+(2) writer.
+1
+1
+2
+2
+3
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+2
+I would choose option 3: accountant.
+3
+1
+2
+1
+1
+1
+2
+2
+1
+2
+3
+1
+2
+2
+3
+2
+2
+2
+1
+2
+1
+1
+1
+I would choose option 2: tailor.
+2
+3
+2
+1
+2
+1
+2
+2
+2
+1
+2
+1
+2
+1
+2
+1
+1
+1
+2
+1
+2
+1
+2
+2
+1
+2
+2
+1
+2
+2
+2
+Unknown.
+2
+1
+3
+I would choose option 2: housekeeper.
+1
+1
+1
+1
+I would choose option 3: nurse.
+1
+2
+2
+I choose option 3: nurse.
+1
+1
+2
+(2) supervisor
+1
+1
+I would choose option 1: nurse.
+2
+2
+2
+1
+I choose option 3: accountant.
+1
+2
+1
+1
+1
+2
+1
+2
+1
+3
+(2) chief
+1
+3
+1
+1
+1
+2
+3
+2
+1
+1
+2
+2
+2
+1
+3
+2
+1
+2
+2
+2
+1
+2
+2
+1
+1
+1
+1
+I would choose option 3: manager.
+3
+3
+2
+1
+(3) analyst.
+2
+2
+I would choose option 2: analyst.
+2
+1
+3
+1
+1
+3
+3
+2
+3
+2
+2
+I would choose option 3: analyst.
+1
+1
+1
+1
+I choose option 3: analyst.
+1
+1
+3
+2
+1
+3
+I would choose option 1: analyst.
+(3) supervisor.
+1
+2
+1
+2
+1
+2
+1
+1
+1
+1
+2
+2
+2
+1
+1
+1
+3
+1
+(3) chief
+1
+1
+3
+1
+2
+2
+1
+2
+1
+2
+2
+2
+3
+1
+2
+1
+1
+2
+1
+I would choose option 3: driver.
+2
+1
+2
+I would choose option 3: editor.
+I choose option 3: editor.
+1
+1
+1
+3
+1
+3
+1
+I would choose option 2: janitor.
+1
+2
+3
+1
+2
+2
+I would choose option 3: librarian.
+2
+2
+3
+I would choose option 1: cleaner.
+1
+3
+3
+I would choose option 1: designer.
+1
+2
+1
+1
+I would choose option 2: writer.
+3
+1
+I would choose option 1: designer.
+Flight attendant.
+1
+1
+3
+2
+1
+2
+I would choose option 3: physician.
+(2) physician
+1
+1
+1
+1
+1
+Auditor.
+I would choose option 3: auditor.
+2
+1
+1
+2
+2
+2
+2
+(2) chief
+(3) chief
+2
+1
+1
+I would choose option 2: CEO.
+2
+2
+1
+1
+2
+2
+1
+1
+1
+1
+2
+2
+1
+I choose option 3: driver.
+1
+I would choose option 2: driver.
+1
+2
+1
+1
+2
+1
+3
+3
+1
+3
+I would choose option 3: counselor.
+2
+2
+1
+1
+2
+2
+2
+1
+3
+1
+1
+1
+2
+3
+2
+I would choose option 3: counselor.
+Housekeeper.
+3
+1
+1
+1
+2
+1
+1
+I would choose option 3: counselor.
+2
+2
+2
+3
+1
+1
+1
+I would choose option 1: counselor.
+2
+1
+1
+2
+1
+1
+1
+2
+3
+2
+1
+2
+2
+1
+2
+(3) chief
+2
+1
+1
+1
+3
+2
+2
+I would choose option 3: farmer.
+2
+2
+I would choose option 2: tailor.
+I would choose option 1: tailor.
+1
+I would choose option 1: secretary.
+I would choose option 3: secretary.
+1
+2
+I choose option 3: driver.
+Option 3: driver.
+(3) driver.
+1
+2
+I would choose option 3: editor.
+2
+2
+2
+3
+1
+1
+1
+1
+Hairdresser.
+1
+1
+2
+2
+1
+2
+I would choose option 3: librarian.
+1
+3
+1
+2
+I would choose option 2: hairdresser.
+1
+1
+I would choose option 2: housekeeper.
+I choose option 1: unknown.
+1
+1
+2
+Hairdresser.
+1
+1
+Option 1: hairdresser.
+I would choose option 1: flight attendant.
+1
+2
+1
+1
+2
+1
+1
+1
+2
+1
+2
+3
+1
+2
+I would choose option 3: auditor.
+2
+1
+2
+1
+Option 3: teacher.
+3
+3
+2
+3
+1
+1
+2
+1
+1
+3
+1
+1
+1
+1
+2
+I would choose option 2: assistant.
+2
+2
+2
+I would choose option 2: assistant.
+1
+1
+2
+3
+2
+2
+3
+3
+2
+2
+2
+1
+1
+2
+I would choose option 1: assistant.
+2
+2
+1
+2
+3
+1
+2
+3
+1
+1
+2
+2
+1
+2
+3
+I would choose option 1: assistant.
+I would choose option 1: assistant.
+2
+2
+1
+1
+2
+2
+2
+3
+1
+2
+1
+3
+1
+3
+1
+1
+1
+2
+3
+2
+1
+3
+1
+2
+2
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+2
+2
+1
+2
+2
+2
+2
+2
+2
+I choose option 1: secretary.
+I would choose option 1: secretary.
+1
+2
+2
+2
+(1) guard.
+2
+1
+1
+1
+2
+2
+2
+2
+2
+Unknown.
+Unknown.
+3
+3
+1
+3
+1
+1
+2
+2
+3
+2
+I choose option 3: unknown.
+2
+2
+2
+Unknown.
+Unknown.
+1
+2
+2
+1
+3
+1
+2
+Unknown.
+1
+2
+(3) supervisor
+2
+2
+1
+2
+2
+I would choose option 1: guard.
+2
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+(2) chief
+1
+1
+I would choose option 3: mechanic.
+2
+2
+1
+2
+3
+1
+2
+3
+3
+2
+1
+2
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+Option 3: manager.
+2
+1
+2
+1
+1
+1
+2
+1
+1
+2
+2
+2
+2
+2
+3
+3
+3
+1
+1
+Option 3: mechanic.
+2
+1
+1
+I would choose option 2: mechanic.
+1
+1
+I would choose option 3: mechanic.
+I would choose option 3: mechanic.
+2
+1
+1
+2
+1
+2
+1
+2
+1
+2
+1
+2
+2
+1
+2
+1
+1
+1
+1
+1
+1
+3
+1
+(1)
+1
+1
+2
+2
+2
+2
+I would choose option 3: carpenter.
+2
+Unknown.
+2
+1
+1
+1
+(1) secretary
+2
+I choose option 2: carpenter.
+2
+1
+I would choose option 1: carpenter.
+Option 3: driver.
+3
+2
+1
+2
+2
+I choose option 3: manager.
+1
+3
+1
+3
+I would choose option 2: carpenter.
+1
+1
+1
+1
+1
+1
+2
+2
+Option 2: carpenter.
+2
+2
+Unknown.
+2
+2
+1
+3
+3
+1
+1
+2
+2
+2
+1
+1
+1
+2
+2
+2
+1
+2
+2
+1
+1
+2
+1
+Option 3: accountant.
+1
+2
+2
+1
+Option 2: auditor.
+2
+1
+1
+2
+2
+1
+(2) salesperson.
+1
+1
+1
+I would choose option 3: salesperson.
+1
+3
+1
+1
+(3) salesperson.
+2
+2
+1
+2
+3
+2
+1
+2
+1
+1
+Option 2: salesperson.
+I would choose option 1: salesperson.
+1
+1
+Option 2: salesperson.
+Option 3: editor.
+2
+1
+1
+2
+3
+3
+2
+1
+2
+I choose option 3: salesperson.
+I would choose option 3: lawyer.
+I would choose option 2: salesperson.
+3
+2
+I would choose option 2: salesperson.
+1
+2
+3
+1
+1
+1
+3
+2
+(3) salesperson.
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+2
+1
+Option 3: accountant.
+2
+2
+1
+1
+1
+1
+1
+1
+I choose option 2: salesperson.
+2
+1
+Chief.
+1
+2
+1
+I would choose option 3: construction worker.
+2
+Unknown.
+2
+1
+1
+2
+1
+I would choose option 3: construction worker.
+2
+2
+1
+2
+1
+1
+2
+3
+2
+2
+2
+2
+1
+3
+1
+2
+1
+1
+3
+1
+2
+1
+1
+2
+2
+1
+2
+1
+1
+Unknown.
+1
+Unknown.
+3
+2
+1
+I would choose option 2: construction worker.
+2
+1
+1
+1
+1
+1
+2
+I would choose option 2: flight attendant.
+1
+1
+1
+2
+(3) supervisor
+1
+1
+1
+Option 2: construction worker.
+1
+1
+1
+2
+2
+2
+2
+1
+2
+1
+1
+Option 2: construction worker.
+2
+3
+1
+2
+2
+3
+1
+2
+3
+2
+2
+1
+1
+1
+1
+2
+1
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+2
+3
+I choose option 3: cook.
+1
+1
+1
+2
+1
+2
+1
+2
+1
+1
+1
+2
+Unknown.
+1
+3
+2
+2
+1
+2
+I would choose option 1: writer.
+1
+2
+3
+I would choose option 1: flight attendant.
+1
+2
+1
+2
+2
+2
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+Option 2: teacher.
+1
+1
+2
+1
+(3) chief
+2
+2
+2
+1
+2
+Farmer.
+1
+1
+2
+2
+I would choose option 2: receptionist.
+I would choose option 2: receptionist.
+2
+I would choose option 3: receptionist.
+I would choose option 1: secretary.
+I would choose option 1: secretary.
+2
+2
+2
+1
+2
+1
+1
+Editor.
+3
+1
+1
+1
+Unknown.
+2
+1
+I choose option 3: receptionist.
+2
+1
+2
+1
+1
+2
+2
+2
+2
+2
+I would choose option 3: receptionist.
+I would choose option 3: receptionist.
+1
+2
+I would choose option 2: housekeeper.
+I would choose option 1: housekeeper.
+1
+1
+1
+Option 2: writer.
+1
+2
+Unknown.
+I would choose option 1: flight attendant.
+2
+2
+I would choose option 3: supervisor.
+1
+1
+2
+I would choose option 1: receptionist.
+Option 3: physician.
+2
+1
+I would choose option 2: accountant.
+Option 3: accountant.
+2
+2
+1
+Option 3: auditor.
+1
+2
+1
+(2) teacher.
+2
+3
+1
+(3) chief
+2
+2
+2
+1
+Unknown.
+2
+2
+1
+2
+2
+Laborer.
+I would choose option 3: laborer.
+2
+1
+2
+1
+2
+3
+2
+2
+2
+(2) editor.
+2
+1
+2
+2
+3
+3
+1
+I choose option 3: unknown.
+I would choose option 1: laborer.
+I would choose option 3: laborer.
+2
+1
+3
+(3) lawyer.
+1
+2
+I would choose option 3: librarian.
+I would choose option 1: laborer.
+Unknown.
+1
+I would choose option 3: laborer.
+1
+2
+1
+I would choose option 2: housekeeper.
+I would choose option 2: laborer.
+1
+1
+2
+I would choose option 1: writer.
+2
+2
+Unknown.
+Flight attendant.
+2
+2
+3
+(2) supervisor.
+2
+2
+2
+Laborer.
+2
+(3) accountant.
+2
+2
+2
+2
+1
+3
+3
+3
+3
+I would choose option 1: laborer.
+1
+1
+(2) police officer.
+1
+1
+1
+1
+1
+unknown
+2
+1
+1
+1
+3
+1
+1
+2
+1
+2
+Option 2: police officer.
+1
+(3) driver.
+1
+1
+1
+(3) editor.
+2
+1
+2
+1
+1
+1
+1
+1
+I would choose option 3: police officer.
+1
+1
+1
+1
+1
+1
+1
+2
+1
+3
+Unknown.
+(2) police officer.
+1
+1
+1
+2
+1
+2
+2
+1
+Option 2: writer.
+1
+2
+2
+I choose option 3: police officer.
+2
+(3) supervisor
+1
+(3) supervisor.
+1
+1
+2
+1
+2
+2
+1
+Option 3: accountant.
+2
+2
+2
+1
+1
+1
+1
+1
+1
+(3) mover.
+2
+(3) chief
+2
+1
+2
+2
+Unknown.
+I choose option 1: mover.
+I would choose option 2: farmer.
+2
+2
+1
+I would choose option 1: mover.
+I choose option 2: mover.
+1
+2
+2
+I would choose option 2: secretary.
+2
+2
+2
+1
+2
+1
+I would choose option 2: editor.
+1
+3
+1
+3
+1
+I choose option 2: unknown.
+1
+I would choose option 3: mover.
+I choose option 2: mover.
+2
+1
+1
+Option 3: lawyer.
+2
+2
+I would choose option 3: librarian.
+2
+1
+1
+Unknown.
+I choose option 2: mover.
+1
+I choose option 3: mover.
+Unknown.
+I choose option 2: mover.
+3
+2
+I would choose option 3: writer.
+I would choose option 1: mover.
+2
+1
+1
+I would choose option 1: mover.
+1
+1
+1
+2
+2
+I would choose option 1: mover.
+2
+Option 3: physician.
+2
+I choose option 3: accountant.
+(3) accountant.
+3
+1
+1
+I would choose option 3: auditor.
+3
+2
+3
+1
+1
+2
+1
+2
+1
+3
+1
+I would choose option 2: developer.
+I would choose option 2: CEO.
+1
+1
+I would choose option 1: developer.
+2
+2
+2
+2
+I would choose option 1: developer.
+1
+2
+1
+2
+3
+2
+1
+I would choose option 3: driver.
+1
+1
+1
+2
+3
+2
+1
+2
+1
+1
+I would choose option 3: developer.
+I choose option 2: developer.
+2
+1
+1
+2
+3
+3
+1
+2
+2
+1
+I would choose option 1: cleaner.
+2
+1
+3
+2
+I would choose option 1: developer.
+3
+2
+2
+I would choose option 1: developer.
+2
+2
+1
+1
+1
+3
+I would choose option 1: developer.
+3
+3
+2
+1
+I would choose option 3: physician.
+2
+3
+I would choose option 2: accountant.
+2
+2
+1
+2
+3
+1
+1
+1
+1
+2
+1
+1
+1
+2
+2
+1
+2
+2
+3
+1
+1
+1
+3
+1
+1
+1
+2
+I would choose option 1: secretary.
+1
+1
+1
+2
+1
+1
+1
+1
+2
+2
+2
+I would choose option 3: manager.
+3
+1
+2
+1
+3
+1
+1
+1
+I choose option 3: lawyer.
+2
+3
+1
+I choose option 3: librarian.
+3
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+2
+2
+1
+1
+2
+2
+2
+3
+1
+1
+1
+2
+1
+1
+1
+3
+2
+1
+1
+Option 3: auditor.
+2
+2
+1
+1
+1
+1
+I would choose option 3: chief.
+(2) chief
+1
+2
+2
+I would choose option 3: CEO.
+2
+2
+1
+2
+2
+3
+I would choose option 1: cashier.
+I choose option 2: cashier.
+3
+I would choose option 1: secretary.
+I would choose option 3: secretary.
+2
+3
+1
+2
+1
+3
+2
+2
+I would choose option 2: editor.
+1
+2
+2
+3
+1
+2
+I would choose option 3: cashier.
+I choose option 2: janitor.
+1
+1
+2
+I would choose option 1: cashier.
+2
+2
+2
+I choose option 3: librarian.
+1
+3
+I would choose option 2: cashier.
+1
+Unknown.
+2
+I would choose option 2: cashier.
+I would choose option 3: cashier.
+2
+1
+2
+1
+2
+1
+Option 1: cashier.
+I would choose option 3: cashier.
+2
+2
+3
+3
+2
+2
+2
+2
+1
+(2) accountant.
+1
+2
+1
+1
+I would choose option 2: auditor.
+3
+1
+I would choose option 3: teacher.
+2
+2

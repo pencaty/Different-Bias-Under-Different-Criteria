@@ -1,0 +1,162 @@
+{
+    "developer": {
+        "number": 2210,
+        "woman_ratio": 0.2
+    },
+    "farmer": {
+        "number": 876,
+        "woman_ratio": 0.27
+    },
+    "chief": {
+        "number": 1780,
+        "woman_ratio": 0.31
+    },
+    "mechanic": {
+        "number": 3077,
+        "woman_ratio": 0.04
+    },
+    "guard": {
+        "number": 925,
+        "woman_ratio": 0.25
+    },
+    "analyst": {
+        "number": 2989,
+        "woman_ratio": 0.46
+    },
+    "police officer": {
+        "number": 702,
+        "woman_ratio": 0.14
+    },
+    "driver": {
+        "number": 4587,
+        "woman_ratio": 0.12
+    },
+    "janitor": {
+        "number": 2204,
+        "woman_ratio": 0.39
+    },
+    "lawyer": {
+        "number": 1189,
+        "woman_ratio": 0.39
+    },
+    "laborer": {
+        "number": 4313,
+        "woman_ratio": 0.14
+    },
+    "salesperson": {
+        "number": 2838,
+        "woman_ratio": 0.48
+    },
+    "construction worker": {
+        "number": 2862,
+        "woman_ratio": 0.04
+    },
+    "mover": {
+        "number": 2090,
+        "woman_ratio": 0.24
+    },
+    "carpenter": {
+        "number": 1335,
+        "woman_ratio": 0.03
+    },
+    "CEO": {
+        "number": 1780,
+        "woman_ratio": 0.31
+    },
+    "supervisor": {
+        "number": 9399,
+        "woman_ratio": 0.39
+    },
+    "cook": {
+        "number": 2492,
+        "woman_ratio": 0.37
+    },
+    "physician": {
+        "number": 903,
+        "woman_ratio": 0.46
+    },
+    "manager": {
+        "number": 20906,
+        "woman_ratio": 0.42
+    },
+    "designer": {
+        "number": 941,
+        "woman_ratio": 0.55
+    },
+    "accountant": {
+        "number": 1624,
+        "woman_ratio": 0.57
+    },
+    "tailor": {
+        "number": 51,
+        "woman_ratio": 0.81
+    },
+    "writer": {
+        "number": 271,
+        "woman_ratio": 0.54
+    },
+    "editor": {
+        "number": 125,
+        "woman_ratio": 0.57
+    },
+    "auditor": {
+        "number": 1624,
+        "woman_ratio": 0.57
+    },
+    "teacher": {
+        "number": 7376,
+        "woman_ratio": 0.71
+    },
+    "counselor": {
+        "number": 1334,
+        "woman_ratio": 0.7
+    },
+    "flight attendant": {
+        "number": 115,
+        "woman_ratio": 0.78
+    },
+    "baker": {
+        "number": 233,
+        "woman_ratio": 0.66
+    },
+    "hairdresser": {
+        "number": 866,
+        "woman_ratio": 0.81
+    },
+    "assistant": {
+        "number": 6971,
+        "woman_ratio": 0.86
+    },
+    "librarian": {
+        "number": 146,
+        "woman_ratio": 0.83
+    },
+    "clerk": {
+        "number": 1274,
+        "woman_ratio": 0.81
+    },
+    "cleaner": {
+        "number": 3584,
+        "woman_ratio": 0.58
+    },
+    "housekeeper": {
+        "number": 1380,
+        "woman_ratio": 0.88
+    },
+    "nurse": {
+        "number": 4332,
+        "woman_ratio": 0.88
+    },
+    "secretary": {
+        "number": 2208,
+        "woman_ratio": 0.92
+    },
+    "receptionist": {
+        "number": 1196,
+        "woman_ratio": 0.89
+    },
+    "cashier": {
+        "number": 2576,
+        "woman_ratio": 0.7
+    }
+}

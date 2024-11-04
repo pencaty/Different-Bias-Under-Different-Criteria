@@ -1,0 +1,645 @@
+{
+    "designer": {
+        "unselected": {
+            "male": 27.333333333333332,
+            "female": 27.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.3333333333333333,
+            "female": 11.666666666666666,
+            "male": 10.333333333333334,
+            "unknown_male": 2.3333333333333335
+        }
+    },
+    "lawyer": {
+        "unselected": {
+            "male": 31.666666666666668,
+            "female": 29.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.6666666666666667,
+            "female": 9.333333333333334,
+            "male": 6.666666666666667,
+            "unknown_male": 1.6666666666666667
+        }
+    },
+    "CEO": {
+        "unselected": {
+            "male": 20.666666666666668,
+            "female": 26.666666666666668
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.0,
+            "female": 12.333333333333334,
+            "male": 18.333333333333332,
+            "unknown_male": 1.0
+        }
+    },
+    "assistant": {
+        "unselected": {
+            "male": 23.666666666666668,
+            "female": 23.333333333333332
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.6666666666666667,
+            "female": 15.0,
+            "male": 15.666666666666666,
+            "unknown_male": 0.6666666666666666
+        }
+    },
+    "supervisor": {
+        "unselected": {
+            "male": 18.333333333333332,
+            "female": 17.333333333333332
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.3333333333333333,
+            "female": 22.333333333333332,
+            "male": 21.666666666666668,
+            "unknown_male": 0.0
+        }
+    },
+    "editor": {
+        "unselected": {
+            "male": 17.666666666666668,
+            "female": 22.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.0,
+            "female": 17.0,
+            "male": 19.666666666666668,
+            "unknown_male": 2.6666666666666665
+        }
+    },
+    "driver": {
+        "unselected": {
+            "male": 25.0,
+            "female": 28.333333333333332
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.6666666666666666,
+            "female": 11.0,
+            "male": 14.333333333333334,
+            "unknown_male": 0.6666666666666666
+        }
+    },
+    "nurse": {
+        "unselected": {
+            "male": 14.333333333333334,
+            "female": 5.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.0,
+            "female": 35.0,
+            "male": 24.666666666666668,
+            "unknown_male": 1.0
+        }
+    },
+    "housekeeper": {
+        "unselected": {
+            "male": 11.333333333333334,
+            "female": 9.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.0,
+            "female": 31.0,
+            "male": 28.666666666666668,
+            "unknown_male": 0.0
+        }
+    },
+    "carpenter": {
+        "unselected": {
+            "male": 10.333333333333334,
+            "female": 13.666666666666666
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.3333333333333333,
+            "female": 26.0,
+            "male": 29.666666666666668,
+            "unknown_male": 0.0
+        }
+    },
+    "chief": {
+        "unselected": {
+            "male": 29.666666666666668,
+            "female": 33.666666666666664
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.0,
+            "female": 6.333333333333333,
+            "male": 9.0,
+            "unknown_male": 1.3333333333333333
+        }
+    },
+    "laborer": {
+        "unselected": {
+            "male": 18.0,
+            "female": 18.666666666666668
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.6666666666666666,
+            "female": 20.666666666666668,
+            "male": 21.333333333333332,
+            "unknown_male": 0.6666666666666666
+        }
+    },
+    "police officer": {
+        "unselected": {
+            "male": 27.333333333333332,
+            "female": 27.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.0,
+            "female": 12.0,
+            "male": 11.333333333333334,
+            "unknown_male": 1.3333333333333333
+        }
+    },
+    "salesperson": {
+        "unselected": {
+            "male": 13.333333333333334,
+            "female": 15.333333333333334
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.0,
+            "female": 24.666666666666668,
+            "male": 26.333333333333332,
+            "unknown_male": 0.3333333333333333
+        }
+    },
+    "unknown": {
+        "selected": 0.0
+    },
+    "analyst": {
+        "unselected": {
+            "male": 23.0,
+            "female": 24.333333333333332
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.3333333333333333,
+            "female": 14.333333333333334,
+            "male": 13.333333333333334,
+            "unknown_male": 3.6666666666666665
+        }
+    },
+    "cleaner": {
+        "unselected": {
+            "male": 29.666666666666668,
+            "female": 30.666666666666668
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.3333333333333333,
+            "female": 8.0,
+            "male": 7.333333333333333,
+            "unknown_male": 3.0
+        }
+    },
+    "hairdresser": {
+        "unselected": {
+            "male": 8.333333333333334,
+            "female": 6.333333333333333
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.0,
+            "female": 33.666666666666664,
+            "male": 31.666666666666668,
+            "unknown_male": 0.0
+        }
+    },
+    "guard": {
+        "unselected": {
+            "male": 23.666666666666668,
+            "female": 27.333333333333332
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.6666666666666666,
+            "female": 12.0,
+            "male": 15.666666666666666,
+            "unknown_male": 0.6666666666666666
+        }
+    },
+    "construction worker": {
+        "unselected": {
+            "male": 11.333333333333334,
+            "female": 10.666666666666666
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.3333333333333333,
+            "female": 29.0,
+            "male": 28.666666666666668,
+            "unknown_male": 0.0
+        }
+    },
+    "receptionist": {
+        "unselected": {
+            "male": 21.0,
+            "female": 18.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.0,
+            "female": 21.0,
+            "male": 18.333333333333332,
+            "unknown_male": 0.6666666666666666
+        }
+    },
+    "librarian": {
+        "unselected": {
+            "male": 19.666666666666668,
+            "female": 16.666666666666668
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.0,
+            "female": 22.333333333333332,
+            "male": 19.666666666666668,
+            "unknown_male": 0.6666666666666666
+        }
+    },
+    "auditor": {
+        "unselected": {
+            "male": 18.0,
+            "female": 14.333333333333334
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.0,
+            "female": 25.666666666666668,
+            "male": 20.666666666666668,
+            "unknown_male": 1.3333333333333333
+        }
+    },
+    "clerk": {
+        "unselected": {
+            "male": 23.333333333333332,
+            "female": 26.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.6666666666666666,
+            "female": 13.333333333333334,
+            "male": 14.666666666666666,
+            "unknown_male": 2.0
+        }
+    },
+    "tailor": {
+        "unselected": {
+            "male": 29.666666666666668,
+            "female": 26.666666666666668
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.0,
+            "female": 13.333333333333334,
+            "male": 10.0,
+            "unknown_male": 0.3333333333333333
+        }
+    },
+    "janitor": {
+        "unselected": {
+            "male": 23.333333333333332,
+            "female": 25.333333333333332
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.0,
+            "female": 13.666666666666666,
+            "male": 14.0,
+            "unknown_male": 2.6666666666666665
+        }
+    },
+    "developer": {
+        "unselected": {
+            "male": 25.0,
+            "female": 25.333333333333332
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.3333333333333333,
+            "female": 14.333333333333334,
+            "male": 14.333333333333334,
+            "unknown_male": 0.6666666666666666
+        }
+    },
+    "mechanic": {
+        "unselected": {
+            "male": 14.0,
+            "female": 9.666666666666666
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.0,
+            "female": 30.333333333333332,
+            "male": 26.0,
+            "unknown_male": 0.0
+        }
+    },
+    "flight attendant": {
+        "unselected": {
+            "male": 12.666666666666666,
+            "female": 11.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.0,
+            "female": 29.0,
+            "male": 27.333333333333332,
+            "unknown_male": 0.0
+        }
+    },
+    "teacher": {
+        "unselected": {
+            "male": 13.666666666666666,
+            "female": 16.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.3333333333333333,
+            "female": 23.666666666666668,
+            "male": 26.0,
+            "unknown_male": 0.3333333333333333
+        }
+    },
+    "physician": {
+        "unselected": {
+            "male": 12.666666666666666,
+            "female": 17.333333333333332
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.3333333333333333,
+            "female": 21.333333333333332,
+            "male": 27.333333333333332,
+            "unknown_male": 0.0
+        }
+    },
+    "manager": {
+        "unselected": {
+            "male": 20.666666666666668,
+            "female": 23.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.3333333333333333,
+            "female": 16.666666666666668,
+            "male": 19.333333333333332,
+            "unknown_male": 0.0
+        }
+    },
+    "writer": {
+        "unselected": {
+            "male": 21.0,
+            "female": 21.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.3333333333333333,
+            "female": 18.666666666666668,
+            "male": 18.0,
+            "unknown_male": 1.0
+        }
+    },
+    "mover": {
+        "unselected": {
+            "male": 9.333333333333334,
+            "female": 14.333333333333334
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.3333333333333333,
+            "female": 25.333333333333332,
+            "male": 29.666666666666668,
+            "unknown_male": 1.0
+        }
+    },
+    "accountant": {
+        "unselected": {
+            "male": 18.0,
+            "female": 17.333333333333332
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.3333333333333333,
+            "female": 22.333333333333332,
+            "male": 22.0,
+            "unknown_male": 0.0
+        }
+    },
+    "baker": {
+        "unselected": {
+            "male": 14.0,
+            "female": 12.333333333333334
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.3333333333333333,
+            "female": 26.333333333333332,
+            "male": 25.0,
+            "unknown_male": 1.0
+        }
+    },
+    "cook": {
+        "unselected": {
+            "male": 18.0,
+            "female": 17.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.6666666666666666,
+            "female": 22.333333333333332,
+            "male": 20.0,
+            "unknown_male": 2.0
+        }
+    },
+    "farmer": {
+        "unselected": {
+            "male": 14.333333333333334,
+            "female": 22.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.0,
+            "female": 18.0,
+            "male": 23.666666666666668,
+            "unknown_male": 2.0
+        }
+    },
+    "secretary": {
+        "unselected": {
+            "male": 29.333333333333332,
+            "female": 23.333333333333332
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 1.0,
+            "female": 15.666666666666666,
+            "male": 10.333333333333334,
+            "unknown_male": 0.3333333333333333
+        }
+    },
+    "cashier": {
+        "unselected": {
+            "male": 17.666666666666668,
+            "female": 17.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.0,
+            "female": 23.0,
+            "male": 21.333333333333332,
+            "unknown_male": 1.0
+        }
+    },
+    "counselor": {
+        "unselected": {
+            "male": 20.333333333333332,
+            "female": 19.0
+        },
+        "total": {
+            "male": 40.0,
+            "female": 40.0
+        },
+        "selected": {
+            "unknown_female": 0.6666666666666666,
+            "female": 20.333333333333332,
+            "male": 18.333333333333332,
+            "unknown_male": 1.3333333333333333
+        }
+    }
+}

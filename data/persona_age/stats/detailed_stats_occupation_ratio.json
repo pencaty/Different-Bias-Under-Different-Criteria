@@ -1,0 +1,546 @@
+{
+    "developer": {
+        "Software developers": {
+            "number": 2134,
+            "under_44_ratio": 70.29
+        },
+        "Web developers": {
+            "number": 76,
+            "under_44_ratio": 72.37
+        }
+    },
+    "farmer": {
+        "Farmers, ranchers, and other agricultural managers": {
+            "number": 876,
+            "under_44_ratio": 30.14
+        }
+    },
+    "chief": {
+        "Chief executives": {
+            "number": 1780,
+            "under_44_ratio": 29.21
+        }
+    },
+    "mechanic": {
+        "Mechanical engineers": {
+            "number": 433,
+            "under_44_ratio": 60.28
+        },
+        "Aircraft mechanics and service technicians": {
+            "number": 124,
+            "under_44_ratio": 61.29
+        },
+        "Automotive service technicians and mechanics": {
+            "number": 933,
+            "under_44_ratio": 62.7
+        },
+        "Bus and truck mechanics and diesel engine specialists": {
+            "number": 334,
+            "under_44_ratio": 61.68
+        },
+        "Heavy vehicle and mobile equipment service technicians and mechanics": {
+            "number": 201,
+            "under_44_ratio": 61.69
+        },
+        "Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers": {
+            "number": 90,
+            "under_44_ratio": 76.67
+        },
+        "Heating, air conditioning, and refrigeration mechanics and installers": {
+            "number": 546,
+            "under_44_ratio": 62.09
+        },
+        "Industrial and refractory machinery mechanics": {
+            "number": 416,
+            "under_44_ratio": 49.52
+        }
+    },
+    "guard": {
+        "Security guards and gambling surveillance officers": {
+            "number": 925,
+            "under_44_ratio": 60.22
+        }
+    },
+    "analyst": {
+        "Management analysts": {
+            "number": 1060,
+            "under_44_ratio": 51.98
+        },
+        "Market research analysts and marketing specialists": {
+            "number": 511,
+            "under_44_ratio": 72.99
+        },
+        "Financial and investment analysts": {
+            "number": 395,
+            "under_44_ratio": 65.57
+        },
+        "Computer systems analysts": {
+            "number": 513,
+            "under_44_ratio": 54.19
+        },
+        "Information security analysts": {
+            "number": 231,
+            "under_44_ratio": 59.74
+        },
+        "Software quality assurance analysts and testers": {
+            "number": 76,
+            "under_44_ratio": 57.89
+        },
+        "Operations research analysts": {
+            "number": 138,
+            "under_44_ratio": 57.25
+        },
+        "News analysts, reporters, and journalists": {
+            "number": 65,
+            "under_44_ratio": 56.92
+        }
+    },
+    "police officer": {
+        "Police officers": {
+            "number": 702,
+            "under_44_ratio": 67.24
+        }
+    },
+    "driver": {
+        "Bus drivers, school": {
+            "number": 218,
+            "under_44_ratio": 27.06
+        },
+        "Bus drivers, transit and intercity": {
+            "number": 284,
+            "under_44_ratio": 28.52
+        },
+        "Driver/sales workers and truck drivers": {
+            "number": 3551,
+            "under_44_ratio": 47.73
+        },
+        "Shuttle drivers and chauffeurs": {
+            "number": 78,
+            "under_44_ratio": 32.05
+        },
+        "Taxi drivers": {
+            "number": 456,
+            "under_44_ratio": 47.59
+        }
+    },
+    "janitor": {
+        "Janitors and building cleaners": {
+            "number": 2204,
+            "under_44_ratio": 48.41
+        }
+    },
+    "lawyer": {
+        "Lawyers": {
+            "number": 1189,
+            "under_44_ratio": 47.77
+        }
+    },
+    "laborer": {
+        "Construction laborers": {
+            "number": 2223,
+            "under_44_ratio": 64.28
+        },
+        "Laborers and freight, stock, and material movers, hand": {
+            "number": 2090,
+            "under_44_ratio": 67.51
+        }
+    },
+    "salesperson": {
+        "Parts salespersons": {
+            "number": 117,
+            "under_44_ratio": 55.56
+        },
+        "Retail salespersons": {
+            "number": 2721,
+            "under_44_ratio": 62.51
+        }
+    },
+    "construction worker": {
+        "Construction laborers": {
+            "number": 2223,
+            "under_44_ratio": 64.28
+        },
+        "Construction equipment operators": {
+            "number": 395,
+            "under_44_ratio": 53.16
+        },
+        "Helpers, construction trades": {
+            "number": 64,
+            "under_44_ratio": 79.69
+        },
+        "Construction and building inspectors": {
+            "number": 115,
+            "under_44_ratio": 40.87
+        },
+        "Miscellaneous construction and related workers": {
+            "number": 65,
+            "under_44_ratio": 70.77
+        }
+    },
+    "mover": {
+        "Laborers and freight, stock, and material movers, hand": {
+            "number": 2090,
+            "under_44_ratio": 67.51
+        }
+    },
+    "carpenter": {
+        "Carpenters": {
+            "number": 1275,
+            "under_44_ratio": 61.49
+        },
+        "Cabinetmakers and bench carpenters": {
+            "number": 60,
+            "under_44_ratio": 50.0
+        }
+    },
+    "CEO": {
+        "Chief executives": {
+            "number": 1780,
+            "under_44_ratio": 29.21
+        }
+    },
+    "supervisor": {
+        "First-line supervisors of correctional officers": {
+            "number": 61,
+            "under_44_ratio": 45.9
+        },
+        "First-line supervisors of police and detectives": {
+            "number": 103,
+            "under_44_ratio": 43.69
+        },
+        "First-line supervisors of firefighting and prevention workers": {
+            "number": 50,
+            "under_44_ratio": 24.0
+        },
+        "First-line supervisors of security workers": {
+            "number": 71,
+            "under_44_ratio": 47.89
+        },
+        "First-line supervisors of food preparation and serving workers": {
+            "number": 542,
+            "under_44_ratio": 67.9
+        },
+        "First-line supervisors of housekeeping and janitorial workers": {
+            "number": 321,
+            "under_44_ratio": 43.61
+        },
+        "First-line supervisors of landscaping, lawn service, and groundskeeping workers": {
+            "number": 283,
+            "under_44_ratio": 49.82
+        },
+        "Supervisors of personal care and service workers": {
+            "number": 253,
+            "under_44_ratio": 49.8
+        },
+        "First-line supervisors of retail sales workers": {
+            "number": 3157,
+            "under_44_ratio": 55.31
+        },
+        "First-line supervisors of non-retail sales workers": {
+            "number": 1268,
+            "under_44_ratio": 48.26
+        },
+        "First-line supervisors of office and administrative support workers": {
+            "number": 1154,
+            "under_44_ratio": 47.4
+        },
+        "First-line supervisors of farming, fishing, and forestry workers": {
+            "number": 70,
+            "under_44_ratio": 40.0
+        },
+        "First-line supervisors of construction trades and extraction workers": {
+            "number": 702,
+            "under_44_ratio": 50.71
+        },
+        "First-line supervisors of mechanics, installers, and repairers": {
+            "number": 239,
+            "under_44_ratio": 41.42
+        },
+        "First-line supervisors of production and operating workers": {
+            "number": 776,
+            "under_44_ratio": 46.78
+        },
+        "Supervisors of transportation and material moving workers": {
+            "number": 349,
+            "under_44_ratio": 55.59
+        }
+    },
+    "cook": {
+        "Chefs and head cooks": {
+            "number": 476,
+            "under_44_ratio": 61.76
+        },
+        "Cooks": {
+            "number": 2016,
+            "under_44_ratio": 65.67
+        }
+    },
+    "physician": {
+        "Other physicians": {
+            "number": 903,
+            "under_44_ratio": 50.5
+        }
+    },
+    "manager": {
+        "Management occupations": {
+            "number": 20906,
+            "under_44_ratio": 46.23
+        }
+    },
+    "designer": {
+        "Web and digital interface designers": {
+            "number": 79,
+            "under_44_ratio": 81.01
+        },
+        "Floral designers": {
+            "number": 63,
+            "under_44_ratio": 41.27
+        },
+        "Graphic designers": {
+            "number": 312,
+            "under_44_ratio": 64.74
+        },
+        "Interior designers": {
+            "number": 103,
+            "under_44_ratio": 46.6
+        },
+        "Other designers": {
+            "number": 384,
+            "under_44_ratio": 55.73
+        }
+    },
+    "accountant": {
+        "Accountants and auditors": {
+            "number": 1624,
+            "under_44_ratio": 51.42
+        }
+    },
+    "tailor": {
+        "Tailors, dressmakers, and sewers": {
+            "number": 51,
+            "under_44_ratio": 41.18
+        }
+    },
+    "writer": {
+        "Writers and authors": {
+            "number": 271,
+            "under_44_ratio": 49.45
+        }
+    },
+    "editor": {
+        "Editors": {
+            "number": 125,
+            "under_44_ratio": 44.8
+        }
+    },
+    "auditor": {
+        "Accountants and auditors": {
+            "number": 1624,
+            "under_44_ratio": 51.42
+        }
+    },
+    "teacher": {
+        "Postsecondary teachers": {
+            "number": 1013,
+            "under_44_ratio": 37.71
+        },
+        "Preschool and kindergarten teachers": {
+            "number": 669,
+            "under_44_ratio": 68.16
+        },
+        "Elementary and middle school teachers": {
+            "number": 3436,
+            "under_44_ratio": 54.71
+        },
+        "Secondary school teachers": {
+            "number": 944,
+            "under_44_ratio": 53.07
+        },
+        "Special education teachers": {
+            "number": 341,
+            "under_44_ratio": 54.25
+        },
+        "Other teachers and instructors": {
+            "number": 973,
+            "under_44_ratio": 54.57
+        }
+    },
+    "counselor": {
+        "Credit counselors and loan officers": {
+            "number": 343,
+            "under_44_ratio": 53.35
+        },
+        "Substance abuse and behavioral disorder counselors": {
+            "number": 133,
+            "under_44_ratio": 67.67
+        },
+        "Educational, guidance, and career counselors and advisors": {
+            "number": 384,
+            "under_44_ratio": 59.38
+        },
+        "Mental health counselors": {
+            "number": 219,
+            "under_44_ratio": 63.93
+        },
+        "Counselors, all other": {
+            "number": 255,
+            "under_44_ratio": 57.25
+        }
+    },
+    "flight attendant": {
+        "Flight attendants": {
+            "number": 115,
+            "under_44_ratio": 50.43
+        }
+    },
+    "baker": {
+        "Bakers": {
+            "number": 233,
+            "under_44_ratio": 70.39
+        }
+    },
+    "hairdresser": {
+        "Barbers": {
+            "number": 149,
+            "under_44_ratio": 61.74
+        },
+        "Hairdressers, hairstylists, and cosmetologists": {
+            "number": 717,
+            "under_44_ratio": 58.02
+        }
+    },
+    "assistant": {
+        "Social and human service assistants": {
+            "number": 245,
+            "under_44_ratio": 64.9
+        },
+        "Paralegals and legal assistants": {
+            "number": 434,
+            "under_44_ratio": 50.69
+        },
+        "Teaching assistants": {
+            "number": 1426,
+            "under_44_ratio": 64.66
+        },
+        "Physician assistants": {
+            "number": 178,
+            "under_44_ratio": 76.97
+        },
+        "Nursing assistants": {
+            "number": 1261,
+            "under_44_ratio": 63.84
+        },
+        "Physical therapist assistants and aides": {
+            "number": 106,
+            "under_44_ratio": 70.75
+        },
+        "Dental assistants": {
+            "number": 288,
+            "under_44_ratio": 72.92
+        },
+        "Medical assistants": {
+            "number": 593,
+            "under_44_ratio": 75.38
+        },
+        "Veterinary assistants and laboratory animal caretakers": {
+            "number": 77,
+            "under_44_ratio": 84.42
+        },
+        "Library assistants, clerical": {
+            "number": 71,
+            "under_44_ratio": 56.34
+        },
+        "Human resources assistants, except payroll and timekeeping": {
+            "number": 84,
+            "under_44_ratio": 58.33
+        },
+        "Executive secretaries and executive administrative assistants": {
+            "number": 210,
+            "under_44_ratio": 44.76
+        },
+        "Legal secretaries and administrative assistants": {
+            "number": 54,
+            "under_44_ratio": 29.63
+        },
+        "Medical secretaries and administrative assistants": {
+            "number": 103,
+            "under_44_ratio": 51.46
+        },
+        "Secretaries and administrative assistants, except legal, medical, and executive": {
+            "number": 1841,
+            "under_44_ratio": 43.56
+        }
+    },
+    "librarian": {
+        "Librarians and media collections specialists": {
+            "number": 146,
+            "under_44_ratio": 47.95
+        }
+    },
+    "clerk": {
+        "Office clerks, general": {
+            "number": 1274,
+            "under_44_ratio": 53.22
+        }
+    },
+    "cleaner": {
+        "Janitors and building cleaners": {
+            "number": 2204,
+            "under_44_ratio": 48.41
+        },
+        "Maids and housekeeping cleaners": {
+            "number": 1380,
+            "under_44_ratio": 47.9
+        }
+    },
+    "housekeeper": {
+        "Maids and housekeeping cleaners": {
+            "number": 1380,
+            "under_44_ratio": 47.9
+        }
+    },
+    "nurse": {
+        "Registered nurses": {
+            "number": 3472,
+            "under_44_ratio": 58.53
+        },
+        "Nurse practitioners": {
+            "number": 276,
+            "under_44_ratio": 63.04
+        },
+        "Licensed practical and licensed vocational nurses": {
+            "number": 584,
+            "under_44_ratio": 53.08
+        }
+    },
+    "secretary": {
+        "Executive secretaries and executive administrative assistants": {
+            "number": 210,
+            "under_44_ratio": 44.76
+        },
+        "Legal secretaries and administrative assistants": {
+            "number": 54,
+            "under_44_ratio": 29.63
+        },
+        "Medical secretaries and administrative assistants": {
+            "number": 103,
+            "under_44_ratio": 51.46
+        },
+        "Secretaries and administrative assistants, except legal, medical, and executive": {
+            "number": 1841,
+            "under_44_ratio": 43.56
+        }
+    },
+    "receptionist": {
+        "Receptionists and information clerks": {
+            "number": 1196,
+            "under_44_ratio": 65.47
+        }
+    },
+    "cashier": {
+        "Cashiers": {
+            "number": 2576,
+            "under_44_ratio": 74.22
+        }
+    }
+}

@@ -1,0 +1,1584 @@
+(1): designer
+(3): designer
+(1): mechanic
+3
+(2): mover
+(1): housekeeper
+1
+2
+2
+(2): housekeeper
+3
+2
+(1): hairdresser
+(3): hairdresser
+(3): cook
+2: teacher
+(2): mover
+(2): hairdresser
+3
+(1): baker
+1: farmer
+3
+1: CEO
+(3): nurse
+3
+(3): cook
+1: hairdresser
+(1): hairdresser
+2
+(3): manager
+(3): driver
+(1): clerk
+3
+(2): developer
+1
+(1): receptionist
+3: guard
+(3): editor
+3
+(2): assistant
+(3): auditor
+2
+3
+(3): mover
+3
+(3): salesperson
+2: designer
+(1): designer
+(3): auditor
+(1): auditor
+2
+(1): baker
+(3): physician
+(2): designer
+(3): hairdresser
+(3): hairdresser
+(3): physician
+(3): physician
+1: driver
+3: hairdresser
+(3): tailor
+(1): tailor
+2
+1: tailor
+(3): mechanic
+3: mechanic
+(1): receptionist
+1: lawyer
+1: manager
+3
+(3): cleaner
+1: developer
+1
+(2): assistant
+(3): writer
+1: manager
+2
+2
+1: construction worker
+(1): counselor
+2
+(3): editor
+1: analyst
+2: secretary
+(3): designer
+3
+(3): salesperson
+(1): writer
+(3): cook
+2
+3: carpenter
+2
+3
+2: designer
+(3): guard
+2: guard
+3
+(1): cashier
+(3): designer
+3
+(1): mechanic
+3
+2
+(2): cook
+3
+(1): teacher
+3
+2
+1: janitor
+2: janitor
+(1): librarian
+1: CEO
+1: chief
+(1): writer
+3
+(3): developer
+2: laborer
+(3): nurse
+3
+2: cashier
+2
+(1): secretary
+(3): cashier
+1: cashier
+(2): mover
+(3): assistant
+(1): supervisor
+(3): editor
+2
+2
+2
+1: laborer
+3
+2: teacher
+(3): construction worker
+(3): secretary
+2
+3
+2: accountant
+(1): accountant
+3
+(1): writer
+(3): mechanic
+(3): cashier
+1: manager
+(1): flight attendant
+(2): analyst
+(1): designer
+(3): tailor
+(1): tailor
+(3): supervisor
+1: supervisor
+3
+(3): janitor
+3
+2: accountant
+(3): chief
+(1): counselor
+(1): writer
+3
+3
+(3): housekeeper
+1: manager
+(2): accountant
+(1): cashier
+3
+(1): clerk
+(3): chief
+3
+1: tailor
+(3): construction worker
+2: flight attendant
+(1): salesperson
+(3): salesperson
+3: teacher
+3: physician
+(1): baker
+(1): baker
+1: construction worker
+(1): hairdresser
+(2): developer
+3
+1
+2
+(2): designer
+(2): designer
+(2): secretary
+(1): secretary
+1: laborer
+(3): laborer
+(2): driver
+(2): housekeeper
+(2): housekeeper
+(2): housekeeper
+(1): cleaner
+(3): cleaner
+(2): developer
+(3): secretary
+3
+(3): janitor
+(2): salesperson
+(1): cashier
+3
+(3): flight attendant
+(1): hairdresser
+(2): hairdresser
+3
+1: secretary
+3
+(2): teacher
+3
+(3): unknown
+(3): accountant
+2
+(2): laborer
+(3): editor
+1: auditor
+(3): auditor
+(1): cashier
+(1): cashier
+1: laborer
+(3): assistant
+(3): laborer
+(2): laborer
+3
+1: farmer
+3
+(2): auditor
+1: receptionist
+(1): receptionist
+1: clerk
+(3): clerk
+(2): driver
+2: nurse
+2: manager
+(3): clerk
+(1): farmer
+(1): accountant
+(3): teacher
+3
+2: supervisor
+3
+(2): auditor
+(2): laborer
+3: carpenter
+(3): receptionist
+2
+(3): farmer
+(2): writer
+(3): construction worker
+1: teacher
+2: teacher
+(1): farmer
+(3): auditor
+(1): CEO
+(1): CEO
+(2): accountant
+(2): salesperson
+(1): baker
+(1): baker
+(2): driver
+3
+1
+2: nurse
+3: supervisor
+(2): librarian
+3
+3
+3
+(1): librarian
+(3): analyst
+(3): cleaner
+3: supervisor
+(3): supervisor
+(1): baker
+(3): unknown
+(3): designer
+(2): designer
+3: CEO
+(2): cleaner
+1: salesperson
+2: baker
+(3): librarian
+(3): librarian
+3
+(3): receptionist
+(2): cook
+(1): librarian
+(3): guard
+(3): secretary
+2
+(3): baker
+(2): physician
+(3): auditor
+1
+(3): cashier
+3
+(2): receptionist
+3
+3: clerk
+1: construction worker
+(2): housekeeper
+3
+(1): housekeeper
+2: librarian
+3: laborer
+(3): hairdresser
+2: hairdresser
+(1): cashier
+(3): cashier
+1: accountant
+(1): accountant
+(1): baker
+(2): baker
+(2): guard
+3: nurse
+3
+(2): tailor
+(2): analyst
+2: analyst
+(2): designer
+(2): designer
+1: hairdresser
+2: hairdresser
+(1): supervisor
+3
+1: designer
+(1): designer
+(1): manager
+2: nurse
+2
+(2): assistant
+(3): cook
+(1): baker
+1: accountant
+(3): accountant
+(3): analyst
+(1): librarian
+(2): flight attendant
+2: flight attendant
+(2): laborer
+2
+1: auditor
+(2): salesperson
+(2): CEO
+(2): editor
+(2): janitor
+2: counselor
+1: baker
+2
+1: mover
+2: teacher
+2
+(2): auditor
+(1): developer
+(1): developer
+3: guard
+2: librarian
+1: cleaner
+(3): construction worker
+(3): driver
+3
+3
+(2): assistant
+3: driver
+(3): auditor
+1
+(1): teacher
+3
+(1): writer
+1: clerk
+(3): clerk
+2: tailor
+(2): tailor
+1: cashier
+(3): cashier
+(2): physician
+(3): physician
+(1): clerk
+(1): clerk
+(1): flight attendant
+(3): flight attendant
+(3): auditor
+(3): auditor
+(2): chief
+(3): designer
+1
+2
+1: farmer
+(1): cashier
+(3): salesperson
+(1): tailor
+1: chief
+(3): chief
+2
+2: accountant
+(2): designer
+(3): designer
+(2): clerk
+(2): clerk
+(3): mover
+(3): housekeeper
+3
+(3): analyst
+(1): housekeeper
+(3): housekeeper
+3: librarian
+(3): salesperson
+(1): hairdresser
+(3): hairdresser
+(3): teacher
+2
+(3): mover
+(2): mover
+(3): baker
+3: physician
+1: housekeeper
+(3): housekeeper
+(1): nurse
+(3): CEO
+(3): cook
+(1): cook
+(1): developer
+3
+3
+3
+(3): clerk
+(1): clerk
+(2): developer
+(2): auditor
+(3): receptionist
+3: CEO
+(1): guard
+1: guard
+(3): assistant
+(1): assistant
+3
+(2): guard
+(1): mover
+3
+(2): salesperson
+(3): salesperson
+3
+3
+(3): mechanic
+(3): mechanic
+(1): baker
+2
+(1): designer
+2: designer
+(3): laborer
+(3): laborer
+(3): cashier
+(3): cashier
+(2): driver
+1: driver
+(3): tailor
+3
+1: tailor
+(3): tailor
+(2): editor
+3
+2
+(3): receptionist
+(1): cleaner
+(1): cleaner
+(3): developer
+(2): cleaner
+(3): mechanic
+(1): assistant
+(2): writer
+(3): manager
+3
+1: physician
+(2): counselor
+(2): counselor
+2
+(3): construction worker
+2: secretary
+2
+(1): designer
+(1): designer
+(3): writer
+3
+(1): housekeeper
+(2): housekeeper
+(1): clerk
+1: clerk
+(1): designer
+(1): designer
+2
+(3): guard
+3: cashier
+(1): cashier
+3
+(2): designer
+(3): mechanic
+(3): mechanic
+3
+(3): cook
+1: teacher
+(2): farmer
+(3): accountant
+2
+2
+3
+2: CEO
+(2): CEO
+(1): writer
+1: chief
+(3): developer
+(2): writer
+(2): nurse
+1: laborer
+2
+1: lawyer
+(1): secretary
+(1): secretary
+(3): cashier
+(1): cashier
+(3): assistant
+(1): mover
+(3): supervisor
+3
+2
+(1): assistant
+(3): receptionist
+2: receptionist
+3: teacher
+3: teacher
+(3): secretary
+3
+3
+(3): flight attendant
+(3): accountant
+2
+(1): writer
+3
+(1): cashier
+(3): cashier
+(3): manager
+1: manager
+(3): analyst
+1: designer
+(3): tailor
+(2): tailor
+(3): supervisor
+(3): supervisor
+(2): janitor
+(1): janitor
+(1): accountant
+2: accountant
+(2): counselor
+1: chief
+(3): writer
+(2): writer
+(1): housekeeper
+2
+(2): accountant
+3
+(1): cashier
+(1): cashier
+(2): clerk
+(3): clerk
+3
+2
+(3): flight attendant
+2
+(3): clerk
+(2): salesperson
+3
+2
+(1): baker
+(3): lawyer
+3
+3
+3
+(3): librarian
+3: secretary
+3: police officer
+2: designer
+3: designer
+(2): secretary
+(3): janitor
+(3): clerk
+1: laborer
+(3): housekeeper
+3
+(2): housekeeper
+(1): housekeeper
+(3): mover
+(3): cleaner
+(3): secretary
+(2): developer
+(1): cleaner
+(3): janitor
+(3): salesperson
+(1): cashier
+(1): flight attendant
+(2): carpenter
+(2): hairdresser
+3
+3: secretary
+(3): secretary
+(3): teacher
+(3): teacher
+(3): carpenter
+2
+2: accountant
+3: accountant
+(3): editor
+2
+2: auditor
+3
+3
+3
+(3): laborer
+(1): laborer
+(3): assistant
+3
+1: farmer
+(3): farmer
+3
+1: manager
+3
+(1): receptionist
+(2): clerk
+2
+3: nurse
+2
+(3): manager
+3: manager
+(3): accountant
+(3): accountant
+(1): teacher
+(1): teacher
+(1): nurse
+1: supervisor
+(3): auditor
+(1): laborer
+(3): receptionist
+(3): receptionist
+(2): farmer
+(2): counselor
+(3): construction worker
+(1): writer
+3
+1: manager
+(3): farmer
+1: auditor
+(2): CEO
+(3): CEO
+(2): salesperson
+2
+(1): baker
+3: baker
+(1): counselor
+3
+2
+(2): construction worker
+(3): librarian
+1: supervisor
+(2): CEO
+1: CEO
+2: librarian
+(3): lawyer
+(2): cleaner
+2: analyst
+(1): hairdresser
+3
+3
+(3): baker
+(1): designer
+(3): designer
+(1): cleaner
+(3): cleaner
+(1): baker
+1: salesperson
+2: librarian
+(2): librarian
+(3): receptionist
+1: receptionist
+(3): cook
+(2): librarian
+(1): secretary
+(3): guard
+(3): baker
+(3): CEO
+3
+3
+(2): cashier
+1: manager
+(3): analyst
+(3): analyst
+1: clerk
+1: clerk
+(1): housekeeper
+(3): construction worker
+(3): CEO
+3: CEO
+(3): librarian
+(2): librarian
+3: hairdresser
+1: hairdresser
+(3): cashier
+2
+3
+(1): supervisor
+(2): analyst
+(2): baker
+(2): guard
+(1): nurse
+(3): tailor
+1: tailor
+1: nurse
+3: analyst
+3: designer
+3
+3: hairdresser
+2
+(3): writer
+(3): writer
+(1): designer
+1: designer
+3
+2
+2
+(3): assistant
+(3): cook
+1: baker
+(3): accountant
+(1): accountant
+(1): analyst
+(3): analyst
+3
+(2): flight attendant
+(2): teacher
+2
+(3): salesperson
+(1): auditor
+(2): CEO
+(3): editor
+(2): counselor
+3
+2: baker
+1: laborer
+2: teacher
+1: mover
+2
+(3): auditor
+(1): developer
+(2): developer
+(3): guard
+1: guard
+(2): construction worker
+3
+3
+(3): driver
+(1): assistant
+(3): assistant
+(3): auditor
+(2): driver
+2
+(2): teacher
+(3): writer
+1: writer
+2: clerk
+3
+(3): mechanic
+(2): tailor
+(3): cashier
+(3): cashier
+(1): physician
+2
+(3): clerk
+2
+(3): flight attendant
+2
+(1): auditor
+(2): auditor
+(3): chief
+(1): designer
+(3): secretary
+1
+1: cashier
+3: cashier
+(2): salesperson
+(1): tailor
+(3): librarian
+2
+(1): accountant
+1: janitor
+2: accountant
+(3): janitor
+3
+(3): assistant
+(1): carpenter
+(1): teacher
+1
+(1): assistant
+(2): laborer
+(3): laborer
+(3): clerk
+(1): clerk
+3
+(2): cashier
+2: writer
+(1): writer
+1: housekeeper
+3
+3
+3
+1: CEO
+(3): CEO
+(2): carpenter
+(1): cleaner
+1: counselor
+(3): counselor
+(3): developer
+(3): teacher
+1: manager
+(2): housekeeper
+(2): mover
+(3): editor
+(3): clerk
+(1): clerk
+(3): farmer
+(3): editor
+(3): analyst
+2
+2
+(1): baker
+1: guard
+1: cashier
+3
+2
+3
+(1): accountant
+(3): hairdresser
+(2): hairdresser
+2
+(3): editor
+1: clerk
+(3): clerk
+1: designer
+2: designer
+(1): driver
+(3): driver
+1: CEO
+(3): auditor
+1: driver
+(1): cashier
+(3): salesperson
+(3): salesperson
+2
+(3): cook
+2
+2: teacher
+3
+(2): writer
+(1): editor
+2: editor
+1
+(3): CEO
+2
+(1): librarian
+(3): cleaner
+(3): cleaner
+3
+2: cleaner
+2
+(3): assistant
+2: police officer
+2: cleaner
+3: supervisor
+3
+2: manager
+2
+(2): mechanic
+(3): writer
+(3): salesperson
+(3): salesperson
+(2): janitor
+(3): editor
+(1): lawyer
+(2): cleaner
+3
+1: hairdresser
+1: construction worker
+(1): librarian
+3: driver
+2
+(3): carpenter
+2: librarian
+2
+2: counselor
+1
+3
+3
+2: cashier
+3
+2: accountant
+3
+2: hairdresser
+2
+(1): nurse
+(3): nurse
+1: nurse
+3
+2: hairdresser
+(1): laborer
+(2): counselor
+(2): salesperson
+(3): salesperson
+(1): receptionist
+2: receptionist
+2
+1: mover
+2
+(1): chief
+(2): guard
+(2): counselor
+2: police officer
+(2): receptionist
+2
+2: nurse
+(3): cook
+(3): cook
+1
+(1): teacher
+3: farmer
+(2): cleaner
+2
+(1): baker
+(2): developer
+(3): receptionist
+(2): guard
+(3): clerk
+(3): construction worker
+3
+1: driver
+(1): receptionist
+(3): flight attendant
+3
+(3): receptionist
+3
+3
+2
+3
+2
+(1): writer
+(1): writer
+3
+(3): tailor
+(1): cashier
+1: chief
+(1): secretary
+1: secretary
+1: supervisor
+(1): designer
+3
+(1): secretary
+1: lawyer
+3: secretary
+2
+1: counselor
+(3): auditor
+(3): construction worker
+(2): analyst
+(2): writer
+(3): assistant
+(1): assistant
+3
+1: flight attendant
+1: accountant
+(1): accountant
+2
+(3): editor
+(3): receptionist
+(3): salesperson
+(1): teacher
+3
+(3): physician
+(1): clerk
+1: nurse
+1: nurse
+1: accountant
+2
+3
+(3): receptionist
+(2): hairdresser
+2: hairdresser
+(3): accountant
+(1): accountant
+(1): manager
+(1): counselor
+(3): lawyer
+(1): teacher
+(2): mechanic
+(1): secretary
+(3): supervisor
+(3): baker
+(1): housekeeper
+3: janitor
+1
+(3): counselor
+2: CEO
+(1): writer
+(2): mechanic
+3
+2
+(1): cashier
+3
+(1): auditor
+1: baker
+(1): baker
+(2): designer
+3
+3
+(2): accountant
+(1): cook
+(3): cashier
+(3): laborer
+(3): laborer
+(3): mechanic
+3: teacher
+1: guard
+3: baker
+1: guard
+(1): tailor
+1: clerk
+(3): clerk
+2
+1: nurse
+1: carpenter
+(1): housekeeper
+1: police officer
+(3): police officer
+(2): physician
+3
+3
+2
+3: farmer
+(2): writer
+2
+2: librarian
+(3): teacher
+(3): teacher
+2: baker
+(3): baker
+(2): cook
+3: nurse
+3
+(3): developer
+(1): driver
+(1): accountant
+3
+3: designer
+(2): mechanic
+3
+3
+(3): cleaner
+(3): writer
+3
+(3): carpenter
+(3): tailor
+3
+(3): construction worker
+1: supervisor
+1: secretary
+(2): chief
+(2): receptionist
+2
+(1): auditor
+1: analyst
+(3): tailor
+1: police officer
+(1): nurse
+1: janitor
+(1): receptionist
+2
+(1): tailor
+1: nurse
+(1): nurse
+(3): baker
+(3): mechanic
+(3): editor
+(1): salesperson
+(1): mover
+2: mover
+3: supervisor
+(2): cleaner
+(2): tailor
+(1): tailor
+1: cook
+(3): secretary
+(2): farmer
+(1): farmer
+(2): assistant
+3
+2
+3
+3: manager
+3
+2: nurse
+1: nurse
+2
+3
+(3): developer
+3
+1: accountant
+2
+2
+2: tailor
+(3): physician
+(3): physician
+(1): tailor
+3
+(3): designer
+2: designer
+3
+3
+(3): clerk
+(2): janitor
+(2): developer
+1: developer
+(1): carpenter
+1: carpenter
+1: flight attendant
+3
+2
+(1): housekeeper
+1: guard
+2: flight attendant
+(2): librarian
+2
+2
+(3): writer
+(3): mover
+(3): designer
+(2): driver
+(2): baker
+(2): auditor
+(3): auditor
+(2): developer
+(3): baker
+1: chief
+(1): auditor
+3
+3
+1: hairdresser
+3
+3
+(1): tailor
+(2): chief
+(3): chief
+(1): flight attendant
+(1): flight attendant
+1: editor
+(2): editor
+(2): editor
+1
+2
+(1): editor
+(3): auditor
+(3): auditor
+1: salesperson
+2: designer
+3: counselor
+3: police officer
+3
+2
+2
+3: tailor
+3
+2
+(2): flight attendant
+3
+2
+(2): mover
+(2): farmer
+(3): librarian
+(1): assistant
+(3): driver
+(3): cleaner
+2
+(1): teacher
+(3): janitor
+2
+(3): accountant
+(3): assistant
+(3): assistant
+(1): teacher
+(2): carpenter
+3
+(3): assistant
+(1): laborer
+3
+(3): cook
+(3): clerk
+(3): analyst
+2
+(1): writer
+1: writer
+2: housekeeper
+(2): housekeeper
+2
+(1): cook
+(3): CEO
+(3): hairdresser
+(3): carpenter
+1: cleaner
+(2): lawyer
+(1): counselor
+(2): developer
+(3): teacher
+(1): housekeeper
+(1): housekeeper
+(3): editor
+(3): editor
+(2): clerk
+3
+(3): editor
+2
+3
+2: flight attendant
+(1): farmer
+(3): baker
+(1): cashier
+1: guard
+(1): receptionist
+1: mover
+(3): accountant
+(3): guard
+(1): hairdresser
+(2): hairdresser
+(1): cook
+(3): editor
+3
+2
+2: designer
+3
+(2): driver
+(1): driver
+(2): CEO
+(3): auditor
+(1): driver
+(2): cashier
+(1): counselor
+1: salesperson
+(1): tailor
+(2): cook
+(1): teacher
+3: teacher
+(1): writer
+1: writer
+(3): editor
+3: editor
+(3): CEO
+1
+(3): librarian
+(3): mechanic
+(3): cleaner
+3
+3
+3: cleaner
+2
+(2): carpenter
+3: cleaner
+1: police officer
+(3): housekeeper
+1: supervisor
+(1): receptionist
+2
+3
+(3): writer
+(3): housekeeper
+2
+(3): editor
+(2): editor
+(2): lawyer
+3
+(1): hairdresser
+2: hairdresser
+3
+(1): librarian
+(3): driver
+3
+(1): librarian
+(3): carpenter
+(3): physician
+1: counselor
+(1): carpenter
+2: carpenter
+2
+1: cashier
+(3): accountant
+1: police officer
+3
+2
+2
+(1): nurse
+1: nurse
+(3): nurse
+2
+1: hairdresser
+(1): laborer
+(3): laborer
+(3): salesperson
+2
+2
+1: receptionist
+1: mover
+3: mover
+2
+3
+(3): guard
+(3): counselor
+(3): receptionist
+(2): police officer
+3
+(2): mechanic
+(1): cook
+3
+(3): teacher
+1: teacher
+(2): cleaner
+(3): cleaner
+(3): mover
+(3): mover
+(3): receptionist
+(3): developer
+(2): guard
+(2): clerk
+(3): cashier
+(3): cashier
+(3): driver
+3
+(2): flight attendant
+(2): flight attendant
+2: cook
+(3): receptionist
+1: lawyer
+1: lawyer
+(1): assistant
+(1): assistant
+(1): writer
+3: writer
+3: tailor
+2: tailor
+2
+(3): chief
+(3): secretary
+3
+(2): designer
+(3): designer
+(1): carpenter
+1: carpenter
+(1): lawyer
+1: secretary
+2: counselor
+1: counselor
+3
+(2): construction worker
+(3): analyst
+(1): writer
+(3): guard
+(1): assistant
+1: flight attendant
+2
+(3): laborer
+(2): accountant
+(1): editor
+(3): editor
+(1): salesperson
+(2): salesperson
+1: teacher
+(2): teacher
+(1): clerk
+(3): clerk
+2
+(1): nurse
+(2): accountant
+2
+(1): receptionist
+(2): construction worker
+3
+3: hairdresser
+(3): accountant
+1: accountant
+(3): manager
+(3): counselor
+(2): teacher
+(3): teacher
+(3): secretary
+2: secretary
+(3): baker
+(3): baker
+2
+(2): housekeeper
+(2): supervisor
+(3): counselor
+2
+3
+3: hairdresser
+1: mechanic
+(1): cashier
+(2): cashier
+(3): auditor
+(1): auditor
+2
+3
+1: designer
+2
+(3): accountant
+2
+(3): cashier
+(2): cook
+3
+3
+2: teacher
+(2): mechanic
+(2): guard
+(3): guard
+(1): guard
+(3): tailor
+(3): clerk
+3: clerk
+2
+(1): nurse
+(3): housekeeper
+1: carpenter
+(3): police officer
+2
+3: receptionist
+1: receptionist
+(2): lawyer
+(2): editor
+(1): farmer
+(2): writer
+3
+1
+(3): salesperson
+(1): teacher
+2: baker
+1: baker
+3
+(3): unknown
+(1): housekeeper
+1: developer
+(2): accountant
+(2): driver
+(1): designer
+3: designer
+(2): mechanic
+3
+2: cleaner
+3
+(3): mover
+3
+(1): carpenter
+(1): tailor
+2
+(2): construction worker
+2
+1: supervisor
+(3): receptionist
+(3): receptionist
+1: auditor
+1: auditor
+2
+(3): tailor
+2: nurse
+1: police officer
+(3): receptionist
+3
+(1): tailor
+3
+(3): nurse
+(1): nurse
+(3): baker
+(3): mechanic
+(3): salesperson
+(1): salesperson
+(1): mover
+(3): mover
+2
+(1): cleaner
+(3): tailor
+(3): tailor
+(3): cook
+(2): cook
+(2): farmer
+(3): farmer
+(1): assistant
+(1): assistant
+3: flight attendant
+3
+(3): librarian
+3
+1: nurse
+(3): nurse
+3
+1: flight attendant
+1: developer
+2
+(1): accountant
+1: accountant
+2: tailor
+2
+(3): housekeeper
+(3): physician
+(2): tailor
+1: tailor
+1: designer
+(1): designer
+2
+2
+3
+(3): clerk
+1: developer
+(1): developer
+(2): carpenter
+(3): carpenter
+(1): cook
+3
+(1): housekeeper
+3
+3
+1: guard
+(1): librarian
+(2): physician
+(3): driver
+3
+(3): mover
+(3): designer
+(3): driver
+(1): baker
+(3): auditor
+(2): auditor
+(3): developer
+(3): developer
+(2): auditor
+(3): auditor
+2
+1
+1: hairdresser
+(1): hairdresser
+(2): tailor
+(1): tailor
+(3): chief
+(2): chief
+2
+2
+3
+3
+3
+2: editor
+(3): editor
+2
+(3): cook
+1: auditor
+(3): designer
+(3): designer
+2: police officer
+(1): counselor
+(3): counselor
+(2): counselor
+(3): physician
+2: tailor
+2
+3: flight attendant
+(2): flight attendant
+(1): flight attendant
+(1): mover
+3: mover
+(2): librarian
+3
+(2): driver
+(3): assistant
+(1): cleaner
+1: cleaner
+(1): teacher
+(3): teacher

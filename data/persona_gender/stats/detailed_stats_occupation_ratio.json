@@ -1,0 +1,546 @@
+{
+	"developer": {
+		"Software developers": {
+			"number": 2134,
+			"woman_ratio": 20.2
+		},
+		"Web developers": {
+			"number": 76,
+			"woman_ratio": 19.4
+		}
+	},
+	"farmer": {
+		"Farmers, ranchers, and other agricultural managers": {
+			"number": 876,
+			"woman_ratio": 27.4
+		}
+	},
+	"chief": {
+		"Chief executives": {
+			"number": 1780,
+			"woman_ratio": 30.6
+		}
+	},
+	"mechanic": {
+		"Mechanical engineers": {
+			"number": 433,
+			"woman_ratio": 10.1
+		},
+		"Aircraft mechanics and service technicians": {
+			"number": 124,
+			"woman_ratio": 4.3
+		},
+		"Automotive service technicians and mechanics": {
+			"number": 933,
+			"woman_ratio": 2.5
+		},
+		"Bus and truck mechanics and diesel engine specialists": {
+			"number": 334,
+			"woman_ratio": 1.6
+		},
+		"Heavy vehicle and mobile equipment service technicians and mechanics": {
+			"number": 201,
+			"woman_ratio": 2.3
+		},
+		"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers": {
+			"number": 90,
+			"woman_ratio": 3.2
+		},
+		"Heating, air conditioning, and refrigeration mechanics and installers": {
+			"number": 546,
+			"woman_ratio": 2.3
+		},
+		"Industrial and refractory machinery mechanics": {
+			"number": 416,
+			"woman_ratio": 3.9
+		}
+	},
+	"guard": {
+		"Security guards and gambling surveillance officers": {
+			"number": 925,
+			"woman_ratio": 24.9
+		}
+	},
+	"analyst": {
+		"Management analysts": {
+			"number": 1060,
+			"woman_ratio": 46.6
+		},
+		"Market research analysts and marketing specialists": {
+			"number": 511,
+			"woman_ratio": 61.7
+		},
+		"Financial and investment analysts": {
+			"number": 395,
+			"woman_ratio": 43.9
+		},
+		"Computer systems analysts": {
+			"number": 513,
+			"woman_ratio": 37.8
+		},
+		"Information security analysts": {
+			"number": 231,
+			"woman_ratio": 19.3
+		},
+		"Software quality assurance analysts and testers": {
+			"number": 76,
+			"woman_ratio": 44.1
+		},
+		"Operations research analysts": {
+			"number": 138,
+			"woman_ratio": 55.0
+		},
+		"News analysts, reporters, and journalists": {
+			"number": 65,
+			"woman_ratio": 51.3
+		}
+	},
+	"police officer": {
+		"Police officers": {
+			"number": 702,
+			"woman_ratio": 14.4
+		}
+	},
+	"driver": {
+		"Bus drivers, school": {
+			"number": 218,
+			"woman_ratio": 56.1
+		},
+		"Bus drivers, transit and intercity": {
+			"number": 284,
+			"woman_ratio": 37.2
+		},
+		"Driver/sales workers and truck drivers": {
+			"number": 3551,
+			"woman_ratio": 6.9
+		},
+		"Shuttle drivers and chauffeurs": {
+			"number": 78,
+			"woman_ratio": 10.7
+		},
+		"Taxi drivers": {
+			"number": 456,
+			"woman_ratio": 15.3
+		}
+	},
+	"janitor": {
+		"Janitors and building cleaners": {
+			"number": 2204,
+			"woman_ratio": 38.7
+		}
+	},
+	"lawyer": {
+		"Lawyers": {
+			"number": 1189,
+			"woman_ratio": 39.5
+		}
+	},
+	"laborer": {
+		"Construction laborers": {
+			"number": 2223,
+			"woman_ratio": 4.5
+		},
+		"Laborers and freight, stock, and material movers, hand": {
+			"number": 2090,
+			"woman_ratio": 24.2
+		}
+	},
+	"salesperson": {
+		"Parts salespersons": {
+			"number": 117,
+			"woman_ratio": 22.9
+		},
+		"Retail salespersons": {
+			"number": 2721,
+			"woman_ratio": 49.2
+		}
+	},
+	"construction worker": {
+		"Construction laborers": {
+			"number": 2223,
+			"woman_ratio": 4.5
+		},
+		"Construction equipment operators": {
+			"number": 395,
+			"woman_ratio": 1.0
+		},
+		"Helpers, construction trades": {
+			"number": 64,
+			"woman_ratio": 6.2
+		},
+		"Construction and building inspectors": {
+			"number": 115,
+			"woman_ratio": 10.5
+		},
+		"Miscellaneous construction and related workers": {
+			"number": 65,
+			"woman_ratio": 7.5
+		}
+	},
+	"mover": {
+		"Laborers and freight, stock, and material movers, hand": {
+			"number": 2090,
+			"woman_ratio": 24.2
+		}
+	},
+	"carpenter": {
+		"Carpenters": {
+			"number": 1275,
+			"woman_ratio": 3.1
+		},
+		"Cabinetmakers and bench carpenters": {
+			"number": 60,
+			"woman_ratio": 5.5
+		}
+	},
+	"CEO": {
+		"Chief executives": {
+			"number": 1780,
+			"woman_ratio": 30.6
+		}
+	},
+	"supervisor": {
+		"First-line supervisors of correctional officers": {
+			"number": 61,
+			"woman_ratio": 35.9
+		},
+		"First-line supervisors of police and detectives": {
+			"number": 103,
+			"woman_ratio": 10.5
+		},
+		"First-line supervisors of firefighting and prevention workers": {
+			"number": 50,
+			"woman_ratio": 6.1
+		},
+		"First-line supervisors of security workers": {
+			"number": 71,
+			"woman_ratio": 22.5
+		},
+		"First-line supervisors of food preparation and serving workers": {
+			"number": 542,
+			"woman_ratio": 53.5
+		},
+		"First-line supervisors of housekeeping and janitorial workers": {
+			"number": 321,
+			"woman_ratio": 44.1
+		},
+		"First-line supervisors of landscaping, lawn service, and groundskeeping workers": {
+			"number": 283,
+			"woman_ratio": 8.0
+		},
+		"Supervisors of personal care and service workers": {
+			"number": 253,
+			"woman_ratio": 65.8
+		},
+		"First-line supervisors of retail sales workers": {
+			"number": 3157,
+			"woman_ratio": 44.6
+		},
+		"First-line supervisors of non-retail sales workers": {
+			"number": 1268,
+			"woman_ratio": 35.9
+		},
+		"First-line supervisors of office and administrative support workers": {
+			"number": 1154,
+			"woman_ratio": 65.8
+		},
+		"First-line supervisors of farming, fishing, and forestry workers": {
+			"number": 70,
+			"woman_ratio": 18.1
+		},
+		"First-line supervisors of construction trades and extraction workers": {
+			"number": 702,
+			"woman_ratio": 5.1
+		},
+		"First-line supervisors of mechanics, installers, and repairers": {
+			"number": 239,
+			"woman_ratio": 7.1
+		},
+		"First-line supervisors of production and operating workers": {
+			"number": 776,
+			"woman_ratio": 23.5
+		},
+		"Supervisors of transportation and material moving workers": {
+			"number": 349,
+			"woman_ratio": 25.5
+		}
+	},
+	"cook": {
+		"Chefs and head cooks": {
+			"number": 476,
+			"woman_ratio": 23.3
+		},
+		"Cooks": {
+			"number": 2016,
+			"woman_ratio": 39.8
+		}
+	},
+	"physician": {
+		"Other physicians": {
+			"number": 903,
+			"woman_ratio": 45.5
+		}
+	},
+	"manager": {
+		"Management occupations": {
+			"number": 20906,
+			"woman_ratio": 41.9
+		}
+	},
+	"designer": {
+		"Web and digital interface designers": {
+			"number": 79,
+			"woman_ratio": 42.7
+		},
+		"Floral designers": {
+			"number": 63,
+			"woman_ratio": 89.1
+		},
+		"Graphic designers": {
+			"number": 312,
+			"woman_ratio": 54.7
+		},
+		"Interior designers": {
+			"number": 103,
+			"woman_ratio": 85.3
+		},
+		"Other designers": {
+			"number": 384,
+			"woman_ratio": 43.1
+		}
+	},
+	"accountant": {
+		"Accountants and auditors": {
+			"number": 1624,
+			"woman_ratio": 57.0
+		}
+	},
+	"tailor": {
+		"Tailors, dressmakers, and sewers": {
+			"number": 51,
+			"woman_ratio": 81.4
+		}
+	},
+	"writer": {
+		"Writers and authors": {
+			"number": 271,
+			"woman_ratio": 53.8
+		}
+	},
+	"editor": {
+		"Editors": {
+			"number": 125,
+			"woman_ratio": 56.6
+		}
+	},
+	"auditor": {
+		"Accountants and auditors": {
+			"number": 1624,
+			"woman_ratio": 57.0
+		}
+	},
+	"teacher": {
+		"Postsecondary teachers": {
+			"number": 1013,
+			"woman_ratio": 46.6
+		},
+		"Preschool and kindergarten teachers": {
+			"number": 669,
+			"woman_ratio": 96.7
+		},
+		"Elementary and middle school teachers": {
+			"number": 3436,
+			"woman_ratio": 78.6
+		},
+		"Secondary school teachers": {
+			"number": 944,
+			"woman_ratio": 56.9
+		},
+		"Special education teachers": {
+			"number": 341,
+			"woman_ratio": 86.6
+		},
+		"Other teachers and instructors": {
+			"number": 973,
+			"woman_ratio": 62.5
+		}
+	},
+	"counselor": {
+		"Credit counselors and loan officers": {
+			"number": 343,
+			"woman_ratio": 51.6
+		},
+		"Substance abuse and behavioral disorder counselors": {
+			"number": 133,
+			"woman_ratio": 78.1
+		},
+		"Educational, guidance, and career counselors and advisors": {
+			"number": 384,
+			"woman_ratio": 79.2
+		},
+		"Mental health counselors": {
+			"number": 219,
+			"woman_ratio": 74.6
+		},
+		"Counselors, all other": {
+			"number": 255,
+			"woman_ratio": 72.3
+		}
+	},
+	"flight attendant": {
+		"Flight attendants": {
+			"number": 115,
+			"woman_ratio": 78.0
+		}
+	},
+	"baker": {
+		"Bakers": {
+			"number": 233,
+			"woman_ratio": 65.5
+		}
+	},
+	"hairdresser": {
+		"Barbers": {
+			"number": 149,
+			"woman_ratio": 28.4
+		},
+		"Hairdressers, hairstylists, and cosmetologists": {
+			"number": 717,
+			"woman_ratio": 92.1
+		}
+	},
+	"assistant": {
+		"Social and human service assistants": {
+			"number": 245,
+			"woman_ratio": 75.3
+		},
+		"Paralegals and legal assistants": {
+			"number": 434,
+			"woman_ratio": 83.0
+		},
+		"Teaching assistants": {
+			"number": 1426,
+			"woman_ratio": 79.5
+		},
+		"Physician assistants": {
+			"number": 178,
+			"woman_ratio": 68.8
+		},
+		"Nursing assistants": {
+			"number": 1261,
+			"woman_ratio": 90.1
+		},
+		"Physical therapist assistants and aides": {
+			"number": 106,
+			"woman_ratio": 68.7
+		},
+		"Dental assistants": {
+			"number": 288,
+			"woman_ratio": 92.8
+		},
+		"Medical assistants": {
+			"number": 593,
+			"woman_ratio": 88.8
+		},
+		"Veterinary assistants and laboratory animal caretakers": {
+			"number": 77,
+			"woman_ratio": 79.6
+		},
+		"Library assistants, clerical": {
+			"number": 71,
+			"woman_ratio": 83.2
+		},
+		"Human resources assistants, except payroll and timekeeping": {
+			"number": 84,
+			"woman_ratio": 88.1
+		},
+		"Executive secretaries and executive administrative assistants": {
+			"number": 210,
+			"woman_ratio": 90.0
+		},
+		"Legal secretaries and administrative assistants": {
+			"number": 54,
+			"woman_ratio": 96.4
+		},
+		"Medical secretaries and administrative assistants": {
+			"number": 103,
+			"woman_ratio": 92.8
+		},
+		"Secretaries and administrative assistants, except legal, medical, and executive": {
+			"number": 1841,
+			"woman_ratio": 91.9
+		}
+	},
+	"librarian": {
+		"Librarians and media collections specialists": {
+			"number": 146,
+			"woman_ratio": 82.5
+		}
+	},
+	"clerk": {
+		"Office clerks, general": {
+			"number": 1274,
+			"woman_ratio": 81.3
+		}		
+	},
+	"cleaner": {
+		"Janitors and building cleaners": {
+			"number": 2204,
+			"woman_ratio": 38.7
+		},
+		"Maids and housekeeping cleaners": {
+			"number": 1380,
+			"woman_ratio": 88.4
+		}
+	},
+	"housekeeper": {
+		"Maids and housekeeping cleaners": {
+			"number": 1380,
+			"woman_ratio": 88.4
+		}
+	},
+	"nurse": {
+		"Registered nurses": {
+			"number": 3472,
+			"woman_ratio": 87.4
+		},
+		"Nurse practitioners": {
+			"number": 276,
+			"woman_ratio": 89.8
+		},
+		"Licensed practical and licensed vocational nurses": {
+			"number": 584,
+			"woman_ratio": 88.7 
+		}
+	},
+	"secretary": {
+		"Executive secretaries and executive administrative assistants": {
+			"number": 210,
+			"woman_ratio": 90.0
+		},
+		"Legal secretaries and administrative assistants": {
+			"number": 54,
+			"woman_ratio": 96.4
+		},
+		"Medical secretaries and administrative assistants": {
+			"number": 103,
+			"woman_ratio": 92.8
+		},
+		"Secretaries and administrative assistants, except legal, medical, and executive": {
+			"number": 1841,
+			"woman_ratio": 91.9
+		}
+	},
+	"receptionist": {
+		"Receptionists and information clerks": {
+			"number": 1196,
+			"woman_ratio": 89.1
+		}
+	},
+	"cashier": {
+		"Cashiers": {
+			"number": 2576,
+			"woman_ratio": 69.8
+		}
+	}
+}

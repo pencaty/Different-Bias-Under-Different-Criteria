@@ -1,0 +1,645 @@
+{
+    "lawyer": {
+        "unselected": {
+            "under_44": 31.333333333333332,
+            "over_44": 31.0
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 1.3333333333333333,
+            "under_44": 7.333333333333333,
+            "unknown_over_44": 1.6666666666666667,
+            "over_44": 7.333333333333333
+        }
+    },
+    "designer": {
+        "unselected": {
+            "under_44": 22.666666666666668,
+            "over_44": 24.333333333333332
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 1.6666666666666667,
+            "under_44": 15.666666666666666,
+            "unknown_over_44": 0.6666666666666666,
+            "over_44": 15.0
+        }
+    },
+    "CEO": {
+        "unselected": {
+            "under_44": 29.0,
+            "over_44": 22.666666666666668
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.6666666666666666,
+            "under_44": 10.333333333333334,
+            "unknown_over_44": 0.6666666666666666,
+            "over_44": 16.666666666666668
+        }
+    },
+    "assistant": {
+        "unselected": {
+            "under_44": 23.666666666666668,
+            "over_44": 21.333333333333332
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 1.0,
+            "under_44": 15.333333333333334,
+            "unknown_over_44": 0.6666666666666666,
+            "over_44": 18.0
+        }
+    },
+    "supervisor": {
+        "unselected": {
+            "under_44": 19.666666666666668,
+            "over_44": 19.333333333333332
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 20.333333333333332,
+            "unknown_over_44": 0.0,
+            "over_44": 20.666666666666668
+        }
+    },
+    "editor": {
+        "unselected": {
+            "under_44": 22.333333333333332,
+            "over_44": 23.666666666666668
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 1.3333333333333333,
+            "under_44": 16.333333333333332,
+            "unknown_over_44": 0.6666666666666666,
+            "over_44": 15.666666666666666
+        }
+    },
+    "driver": {
+        "unselected": {
+            "under_44": 27.0,
+            "over_44": 31.333333333333332
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.6666666666666666,
+            "under_44": 12.333333333333334,
+            "unknown_over_44": 0.3333333333333333,
+            "over_44": 8.333333333333334
+        }
+    },
+    "nurse": {
+        "unselected": {
+            "under_44": 8.0,
+            "over_44": 8.333333333333334
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 1.3333333333333333,
+            "under_44": 30.666666666666668,
+            "unknown_over_44": 0.3333333333333333,
+            "over_44": 31.333333333333332
+        }
+    },
+    "housekeeper": {
+        "unselected": {
+            "under_44": 9.666666666666666,
+            "over_44": 11.333333333333334
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 30.333333333333332,
+            "unknown_over_44": 0.3333333333333333,
+            "over_44": 28.333333333333332
+        }
+    },
+    "carpenter": {
+        "unselected": {
+            "under_44": 7.666666666666667,
+            "over_44": 6.666666666666667
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 32.333333333333336,
+            "unknown_over_44": 0.0,
+            "over_44": 33.333333333333336
+        }
+    },
+    "chief": {
+        "unselected": {
+            "under_44": 31.666666666666668,
+            "over_44": 32.333333333333336
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.6666666666666666,
+            "under_44": 7.666666666666667,
+            "unknown_over_44": 0.0,
+            "over_44": 7.666666666666667
+        }
+    },
+    "laborer": {
+        "unselected": {
+            "under_44": 17.333333333333332,
+            "over_44": 16.666666666666668
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 22.666666666666668,
+            "unknown_over_44": 0.3333333333333333,
+            "over_44": 23.0
+        }
+    },
+    "police officer": {
+        "unselected": {
+            "under_44": 24.333333333333332,
+            "over_44": 24.0
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 1.0,
+            "under_44": 14.666666666666666,
+            "unknown_over_44": 0.0,
+            "over_44": 16.0
+        }
+    },
+    "salesperson": {
+        "unselected": {
+            "under_44": 13.0,
+            "over_44": 11.333333333333334
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 27.0,
+            "unknown_over_44": 0.0,
+            "over_44": 28.666666666666668
+        }
+    },
+    "analyst": {
+        "unselected": {
+            "under_44": 28.666666666666668,
+            "over_44": 24.333333333333332
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.6666666666666666,
+            "under_44": 10.666666666666666,
+            "unknown_over_44": 0.6666666666666666,
+            "over_44": 15.0
+        }
+    },
+    "unknown": {
+        "selected": 0.0
+    },
+    "cleaner": {
+        "unselected": {
+            "under_44": 27.666666666666668,
+            "over_44": 33.333333333333336
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 1.3333333333333333,
+            "under_44": 11.0,
+            "unknown_over_44": 1.0,
+            "over_44": 5.666666666666667
+        }
+    },
+    "hairdresser": {
+        "unselected": {
+            "under_44": 4.666666666666667,
+            "over_44": 7.666666666666667
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 35.333333333333336,
+            "unknown_over_44": 0.0,
+            "over_44": 32.333333333333336
+        }
+    },
+    "guard": {
+        "unselected": {
+            "under_44": 22.0,
+            "over_44": 23.0
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 18.0,
+            "unknown_over_44": 0.0,
+            "over_44": 17.0
+        }
+    },
+    "construction worker": {
+        "unselected": {
+            "under_44": 8.666666666666666,
+            "over_44": 10.333333333333334
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 31.333333333333332,
+            "unknown_over_44": 0.0,
+            "over_44": 29.666666666666668
+        }
+    },
+    "receptionist": {
+        "unselected": {
+            "under_44": 22.0,
+            "over_44": 25.0
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.6666666666666666,
+            "under_44": 17.333333333333332,
+            "unknown_over_44": 1.0,
+            "over_44": 14.0
+        }
+    },
+    "librarian": {
+        "unselected": {
+            "under_44": 17.333333333333332,
+            "over_44": 18.333333333333332
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.6666666666666666,
+            "under_44": 22.0,
+            "unknown_over_44": 0.3333333333333333,
+            "over_44": 21.333333333333332
+        }
+    },
+    "auditor": {
+        "unselected": {
+            "under_44": 14.0,
+            "over_44": 20.666666666666668
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 26.0,
+            "unknown_over_44": 0.0,
+            "over_44": 19.333333333333332
+        }
+    },
+    "clerk": {
+        "unselected": {
+            "under_44": 27.333333333333332,
+            "over_44": 26.333333333333332
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 1.3333333333333333,
+            "under_44": 11.333333333333334,
+            "unknown_over_44": 1.3333333333333333,
+            "over_44": 12.333333333333334
+        }
+    },
+    "tailor": {
+        "unselected": {
+            "under_44": 29.333333333333332,
+            "over_44": 33.333333333333336
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.3333333333333333,
+            "under_44": 10.333333333333334,
+            "unknown_over_44": 0.0,
+            "over_44": 6.666666666666667
+        }
+    },
+    "janitor": {
+        "unselected": {
+            "under_44": 19.0,
+            "over_44": 17.333333333333332
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 1.0,
+            "under_44": 20.0,
+            "unknown_over_44": 0.0,
+            "over_44": 22.666666666666668
+        }
+    },
+    "developer": {
+        "unselected": {
+            "under_44": 21.0,
+            "over_44": 20.666666666666668
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 19.0,
+            "unknown_over_44": 0.6666666666666666,
+            "over_44": 18.666666666666668
+        }
+    },
+    "mechanic": {
+        "unselected": {
+            "under_44": 11.666666666666666,
+            "over_44": 12.333333333333334
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 28.333333333333332,
+            "unknown_over_44": 0.0,
+            "over_44": 27.666666666666668
+        }
+    },
+    "flight attendant": {
+        "unselected": {
+            "under_44": 10.0,
+            "over_44": 10.0
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 30.0,
+            "unknown_over_44": 0.0,
+            "over_44": 30.0
+        }
+    },
+    "teacher": {
+        "unselected": {
+            "under_44": 17.666666666666668,
+            "over_44": 9.666666666666666
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 1.3333333333333333,
+            "under_44": 21.0,
+            "unknown_over_44": 0.3333333333333333,
+            "over_44": 30.0
+        }
+    },
+    "physician": {
+        "unselected": {
+            "under_44": 12.0,
+            "over_44": 15.0
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 28.0,
+            "unknown_over_44": 0.3333333333333333,
+            "over_44": 24.666666666666668
+        }
+    },
+    "manager": {
+        "unselected": {
+            "under_44": 24.333333333333332,
+            "over_44": 22.0
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 15.666666666666666,
+            "unknown_over_44": 0.0,
+            "over_44": 18.0
+        }
+    },
+    "writer": {
+        "unselected": {
+            "under_44": 20.666666666666668,
+            "over_44": 19.333333333333332
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 2.6666666666666665,
+            "under_44": 16.666666666666668,
+            "unknown_over_44": 0.3333333333333333,
+            "over_44": 20.333333333333332
+        }
+    },
+    "mover": {
+        "unselected": {
+            "under_44": 16.0,
+            "over_44": 14.0
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.6666666666666666,
+            "under_44": 23.333333333333332,
+            "unknown_over_44": 0.0,
+            "over_44": 26.0
+        }
+    },
+    "accountant": {
+        "unselected": {
+            "under_44": 17.333333333333332,
+            "over_44": 16.0
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 22.666666666666668,
+            "unknown_over_44": 0.6666666666666666,
+            "over_44": 23.333333333333332
+        }
+    },
+    "baker": {
+        "unselected": {
+            "under_44": 14.666666666666666,
+            "over_44": 16.333333333333332
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.6666666666666666,
+            "under_44": 24.666666666666668,
+            "unknown_over_44": 1.3333333333333333,
+            "over_44": 22.333333333333332
+        }
+    },
+    "cook": {
+        "unselected": {
+            "under_44": 17.0,
+            "over_44": 19.666666666666668
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 1.0,
+            "under_44": 22.0,
+            "unknown_over_44": 0.0,
+            "over_44": 20.333333333333332
+        }
+    },
+    "farmer": {
+        "unselected": {
+            "under_44": 23.333333333333332,
+            "over_44": 23.666666666666668
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.0,
+            "under_44": 16.666666666666668,
+            "unknown_over_44": 0.3333333333333333,
+            "over_44": 16.0
+        }
+    },
+    "secretary": {
+        "unselected": {
+            "under_44": 31.0,
+            "over_44": 29.666666666666668
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.6666666666666666,
+            "under_44": 8.333333333333334,
+            "unknown_over_44": 1.6666666666666667,
+            "over_44": 8.666666666666666
+        }
+    },
+    "cashier": {
+        "unselected": {
+            "under_44": 22.333333333333332,
+            "over_44": 18.0
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 0.3333333333333333,
+            "under_44": 17.333333333333332,
+            "unknown_over_44": 0.0,
+            "over_44": 22.0
+        }
+    },
+    "counselor": {
+        "unselected": {
+            "under_44": 20.333333333333332,
+            "over_44": 21.0
+        },
+        "total": {
+            "under_44": 40.0,
+            "over_44": 40.0
+        },
+        "selected": {
+            "unknown_under_44": 2.3333333333333335,
+            "under_44": 17.333333333333332,
+            "unknown_over_44": 1.6666666666666667,
+            "over_44": 17.333333333333332
+        }
+    }
+}

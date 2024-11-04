@@ -1,0 +1,645 @@
+{
+    "unknown": {
+        "selected": 0
+    },
+    "carpenter": {
+        "selected": {
+            "female": 4,
+            "male": 36,
+            "unknown_female": 8,
+            "unknown_male": 0
+        },
+        "unselected": {
+            "female": 28,
+            "male": 4
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "mechanic": {
+        "selected": {
+            "female": 1,
+            "male": 38,
+            "unknown_female": 9,
+            "unknown_male": 0
+        },
+        "unselected": {
+            "female": 30,
+            "male": 2
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "construction worker": {
+        "selected": {
+            "female": 0,
+            "male": 33,
+            "unknown_female": 11,
+            "unknown_male": 0
+        },
+        "unselected": {
+            "female": 29,
+            "male": 7
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "driver": {
+        "selected": {
+            "female": 0,
+            "male": 24,
+            "unknown_female": 8,
+            "unknown_male": 1
+        },
+        "unselected": {
+            "female": 32,
+            "male": 15
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "police officer": {
+        "selected": {
+            "female": 0,
+            "male": 21,
+            "unknown_female": 9,
+            "unknown_male": 6
+        },
+        "unselected": {
+            "female": 31,
+            "male": 13
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "laborer": {
+        "selected": {
+            "female": 0,
+            "male": 21,
+            "unknown_female": 4,
+            "unknown_male": 5
+        },
+        "unselected": {
+            "female": 36,
+            "male": 14
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "developer": {
+        "selected": {
+            "female": 28,
+            "male": 40,
+            "unknown_female": 0,
+            "unknown_male": 0
+        },
+        "unselected": {
+            "female": 12,
+            "male": 0
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "mover": {
+        "selected": {
+            "female": 0,
+            "male": 24,
+            "unknown_female": 5,
+            "unknown_male": 3
+        },
+        "unselected": {
+            "female": 35,
+            "male": 13
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "guard": {
+        "selected": {
+            "female": 0,
+            "male": 27,
+            "unknown_female": 9,
+            "unknown_male": 2
+        },
+        "unselected": {
+            "female": 31,
+            "male": 11
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "farmer": {
+        "selected": {
+            "female": 2,
+            "male": 25,
+            "unknown_female": 6,
+            "unknown_male": 4
+        },
+        "unselected": {
+            "female": 32,
+            "male": 11
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "chief": {
+        "selected": {
+            "female": 2,
+            "male": 13,
+            "unknown_female": 5,
+            "unknown_male": 7
+        },
+        "unselected": {
+            "female": 33,
+            "male": 20
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "CEO": {
+        "selected": {
+            "female": 13,
+            "male": 26,
+            "unknown_female": 3,
+            "unknown_male": 3
+        },
+        "unselected": {
+            "female": 24,
+            "male": 11
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "cook": {
+        "selected": {
+            "female": 10,
+            "male": 19,
+            "unknown_female": 9,
+            "unknown_male": 9
+        },
+        "unselected": {
+            "female": 21,
+            "male": 12
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "janitor": {
+        "selected": {
+            "female": 0,
+            "male": 0,
+            "unknown_female": 11,
+            "unknown_male": 21
+        },
+        "unselected": {
+            "female": 29,
+            "male": 19
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "lawyer": {
+        "selected": {
+            "female": 23,
+            "male": 31,
+            "unknown_female": 5,
+            "unknown_male": 1
+        },
+        "unselected": {
+            "female": 12,
+            "male": 8
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "supervisor": {
+        "selected": {
+            "female": 15,
+            "male": 36,
+            "unknown_female": 5,
+            "unknown_male": 0
+        },
+        "unselected": {
+            "female": 20,
+            "male": 4
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "manager": {
+        "selected": {
+            "female": 22,
+            "male": 37,
+            "unknown_female": 0,
+            "unknown_male": 0
+        },
+        "unselected": {
+            "female": 18,
+            "male": 3
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "analyst": {
+        "selected": {
+            "female": 30,
+            "male": 38,
+            "unknown_female": 0,
+            "unknown_male": 0
+        },
+        "unselected": {
+            "female": 10,
+            "male": 2
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "physician": {
+        "selected": {
+            "female": 19,
+            "male": 23,
+            "unknown_female": 4,
+            "unknown_male": 6
+        },
+        "unselected": {
+            "female": 17,
+            "male": 11
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "salesperson": {
+        "selected": {
+            "female": 3,
+            "male": 18,
+            "unknown_female": 11,
+            "unknown_male": 7
+        },
+        "unselected": {
+            "female": 26,
+            "male": 15
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "writer": {
+        "selected": {
+            "female": 39,
+            "male": 37,
+            "unknown_female": 0,
+            "unknown_male": 0
+        },
+        "unselected": {
+            "female": 1,
+            "male": 3
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "designer": {
+        "selected": {
+            "female": 38,
+            "male": 19,
+            "unknown_female": 0,
+            "unknown_male": 0
+        },
+        "unselected": {
+            "female": 2,
+            "male": 21
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "accountant": {
+        "selected": {
+            "female": 21,
+            "male": 23,
+            "unknown_female": 11,
+            "unknown_male": 5
+        },
+        "unselected": {
+            "female": 8,
+            "male": 12
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "editor": {
+        "selected": {
+            "female": 40,
+            "male": 22,
+            "unknown_female": 0,
+            "unknown_male": 0
+        },
+        "unselected": {
+            "female": 0,
+            "male": 18
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "auditor": {
+        "selected": {
+            "female": 24,
+            "male": 12,
+            "unknown_female": 5,
+            "unknown_male": 4
+        },
+        "unselected": {
+            "female": 11,
+            "male": 24
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "cleaner": {
+        "selected": {
+            "female": 2,
+            "male": 5,
+            "unknown_female": 19,
+            "unknown_male": 4
+        },
+        "unselected": {
+            "female": 19,
+            "male": 31
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "baker": {
+        "selected": {
+            "female": 34,
+            "male": 15,
+            "unknown_female": 0,
+            "unknown_male": 2
+        },
+        "unselected": {
+            "female": 6,
+            "male": 23
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "counselor": {
+        "selected": {
+            "female": 39,
+            "male": 18,
+            "unknown_female": 0,
+            "unknown_male": 3
+        },
+        "unselected": {
+            "female": 1,
+            "male": 19
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "cashier": {
+        "selected": {
+            "female": 10,
+            "male": 0,
+            "unknown_female": 17,
+            "unknown_male": 6
+        },
+        "unselected": {
+            "female": 13,
+            "male": 34
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "teacher": {
+        "selected": {
+            "female": 34,
+            "male": 13,
+            "unknown_female": 1,
+            "unknown_male": 4
+        },
+        "unselected": {
+            "female": 5,
+            "male": 23
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "flight attendant": {
+        "selected": {
+            "female": 22,
+            "male": 3,
+            "unknown_female": 11,
+            "unknown_male": 8
+        },
+        "unselected": {
+            "female": 7,
+            "male": 29
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "tailor": {
+        "selected": {
+            "female": 27,
+            "male": 4,
+            "unknown_female": 2,
+            "unknown_male": 2
+        },
+        "unselected": {
+            "female": 11,
+            "male": 34
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "hairdresser": {
+        "selected": {
+            "female": 20,
+            "male": 0,
+            "unknown_female": 5,
+            "unknown_male": 8
+        },
+        "unselected": {
+            "female": 15,
+            "male": 32
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "clerk": {
+        "selected": {
+            "female": 19,
+            "male": 7,
+            "unknown_female": 7,
+            "unknown_male": 5
+        },
+        "unselected": {
+            "female": 14,
+            "male": 28
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "librarian": {
+        "selected": {
+            "female": 37,
+            "male": 9,
+            "unknown_female": 0,
+            "unknown_male": 2
+        },
+        "unselected": {
+            "female": 3,
+            "male": 29
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "assistant": {
+        "selected": {
+            "female": 23,
+            "male": 4,
+            "unknown_female": 3,
+            "unknown_male": 3
+        },
+        "unselected": {
+            "female": 14,
+            "male": 33
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "housekeeper": {
+        "selected": {
+            "female": 7,
+            "male": 0,
+            "unknown_female": 17,
+            "unknown_male": 4
+        },
+        "unselected": {
+            "female": 16,
+            "male": 36
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "nurse": {
+        "selected": {
+            "female": 37,
+            "male": 4,
+            "unknown_female": 1,
+            "unknown_male": 4
+        },
+        "unselected": {
+            "female": 2,
+            "male": 32
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "receptionist": {
+        "selected": {
+            "female": 20,
+            "male": 0,
+            "unknown_female": 8,
+            "unknown_male": 7
+        },
+        "unselected": {
+            "female": 12,
+            "male": 33
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    },
+    "secretary": {
+        "selected": {
+            "female": 13,
+            "male": 0,
+            "unknown_female": 15,
+            "unknown_male": 4
+        },
+        "unselected": {
+            "female": 12,
+            "male": 36
+        },
+        "total": {
+            "female": 40,
+            "male": 40
+        }
+    }
+}
